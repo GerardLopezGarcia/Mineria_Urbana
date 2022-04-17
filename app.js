@@ -11,8 +11,9 @@ var myIcon = L.icon({
 
 //fosc
 // let url = https://cartodb-basemaps-{s}.global.ssl.fastly.net/dark_nolabels/{z}/{x}/{y}.png
-//ploter
-//let url =  https://stamen-tiles-{s}.a.ssl.fastly.net/toner/{z}/{x}/{y}{r}.{ext}
+
+//BLANC CHULO 
+//let url =  https://api.mapbox.com/styles/v1/mapbox/light-v9/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw
 
 //mapa 
 // let base = 'https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}{r}.png';
@@ -42,13 +43,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#6242b8",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#a51d99",
+        "fill": "#c53096",
         "fill-opacity": 0.5,
-        "n": "rosa",
-        "Metall": "10%"
+        "Id": 1,
+        "clau_urbanistica": "PAU",
+        "Area": 18741.11,
+        "border": "#c53096"
       },
       "geometry": {
         "type": "Polygon",
@@ -113,12 +115,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#6242b8",
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#6242b8",
         "fill-opacity": 0.5,
-        "n": "lila"
+        "Id": 2,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 286614.98,
+        "border": "#6242b8"
       },
       "geometry": {
         "type": "Polygon",
@@ -247,11 +251,13 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#8c0303",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "n": "",
-        "fill": "#a80000"
+        "fill": "#a80000",
+        "Id": 3,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": "",
+        "border": "#8c0303"
       },
       "geometry": {
         "type": "LineString",
@@ -962,10 +968,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8",
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
         "stroke-width": "",
-        "stroke": "#6242b8",
-        "n": ""
+        "Id": 4,
+        "clau_urbanistica": "PAU",
+        "Area": 30059.54,
+        "border": "#c53096"
       },
       "geometry": {
         "type": "Polygon",
@@ -1042,8 +1052,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8",
-        "stroke": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 5,
+        "clau_urbanistica": "PAU",
+        "Area": 31408.79,
+        "border": "#c53096"
       },
       "geometry": {
         "type": "Polygon",
@@ -1192,8 +1208,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8",
-        "stroke": "#6242b8"
+        "stroke-width": 2,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "stroke-opacity": "",
+        "Id": 6,
+        "clau_urbanistica": "PAU",
+        "Area": 6113.46,
+        "border": "#c53096"
       },
       "geometry": {
         "type": "Polygon",
@@ -1250,9 +1272,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
+        "stroke-width": 2,
+        "fill-opacity": 0.5,
         "stroke-opacity": "",
-        "fill": "#6242b8",
-        "stroke": ""
+        "fill": "#c53096",
+        "Id": 7,
+        "clau_urbanistica": "PAU",
+        "Area": 10400.94,
+        "border": "#c53096"
       },
       "geometry": {
         "type": "Polygon",
@@ -1333,8 +1360,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8",
-        "stroke": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 8,
+        "clau_urbanistica": "PAU",
+        "Area": 2149.85,
+        "border": "#6242b8"
       },
       "geometry": {
         "type": "Polygon",
@@ -1371,8 +1404,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8",
-        "stroke": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 9,
+        "clau_urbanistica": "PAU",
+        "Area": 5853.25,
+        "border": "#6242b8"
       },
       "geometry": {
         "type": "Polygon",
@@ -1425,8 +1464,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8",
-        "stroke": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 10,
+        "clau_urbanistica": "PAU",
+        "Area": 346.24,
+        "border": "#6242b8"
       },
       "geometry": {
         "type": "Polygon",
@@ -1469,7 +1514,10 @@ var Min_Urb = {
       "properties": {
         "stroke-width": "",
         "fill": "#6242b8",
-        "stroke": "#6242b8"
+        "Id": 11,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 5377.59,
+        "border": "#6242b8"
       },
       "geometry": {
         "type": "Polygon",
@@ -1523,7 +1571,10 @@ var Min_Urb = {
       "type": "Feature",
       "properties": {
         "fill": "#6242b8",
-        "stroke": "#6242b8"
+        "Id": 12,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 1490.06,
+        "border": "#6242b8"
       },
       "geometry": {
         "type": "Polygon",
@@ -1560,8 +1611,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8",
-        "stroke": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 13,
+        "clau_urbanistica": "PAU",
+        "Area": "2787.20",
+        "border": "#6242b8"
       },
       "geometry": {
         "type": "Polygon",
@@ -1598,8 +1655,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8",
-        "stroke": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 14,
+        "clau_urbanistica": "PAU",
+        "Area": 2579.66,
+        "border": "#6242b8"
       },
       "geometry": {
         "type": "Polygon",
@@ -1637,7 +1700,10 @@ var Min_Urb = {
       "type": "Feature",
       "properties": {
         "fill": "#6242b8",
-        "stroke": "#6242b8"
+        "Id": 15,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 5857.35,
+        "border": "#6242b8"
       },
       "geometry": {
         "type": "Polygon",
@@ -1706,8 +1772,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8",
-        "stroke": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#216902",
+        "Id": 16,
+        "clau_urbanistica": "PEU",
+        "Area": "605849.40",
+        "border": "#216902"
       },
       "geometry": {
         "type": "Polygon",
@@ -1821,7 +1893,10 @@ var Min_Urb = {
       "type": "Feature",
       "properties": {
         "fill": "#6242b8",
-        "stroke": "#6242b8"
+        "Id": 17,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 195834.08,
+        "border": "#6242b8"
       },
       "geometry": {
         "type": "Polygon",
@@ -1887,7 +1962,10 @@ var Min_Urb = {
       "type": "Feature",
       "properties": {
         "fill": "#6242b8",
-        "stroke": "#6242b8"
+        "Id": 18,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 5401.84,
+        "border": "#6242b8"
       },
       "geometry": {
         "type": "Polygon",
@@ -1944,8 +2022,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8",
-        "stroke": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#e11919",
+        "Id": 19,
+        "clau_urbanistica": "SND",
+        "Area": 144087.28,
+        "border": "#e11919"
       },
       "geometry": {
         "type": "Polygon",
@@ -2043,7 +2127,10 @@ var Min_Urb = {
       "type": "Feature",
       "properties": {
         "fill": "#6242b8",
-        "stroke": "#6242b8"
+        "Id": 20,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 35272.38,
+        "border": "#6242b8"
       },
       "geometry": {
         "type": "Polygon",
@@ -2105,7 +2192,10 @@ var Min_Urb = {
       "type": "Feature",
       "properties": {
         "fill": "#6242b8",
-        "stroke": "#6242b8"
+        "Id": 21,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 15215.91,
+        "border": "#6242b8"
       },
       "geometry": {
         "type": "Polygon",
@@ -2175,7 +2265,10 @@ var Min_Urb = {
       "type": "Feature",
       "properties": {
         "fill": "#6242b8",
-        "stroke": "#6242b8"
+        "Id": 22,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 16979.65,
+        "border": "#6242b8"
       },
       "geometry": {
         "type": "Polygon",
@@ -2253,7 +2346,10 @@ var Min_Urb = {
       "type": "Feature",
       "properties": {
         "fill": "#6242b8",
-        "stroke": "#6242b8"
+        "Id": 23,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 105324.64,
+        "border": "#6242b8"
       },
       "geometry": {
         "type": "Polygon",
@@ -2370,8 +2466,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#6242b8",
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 24,
+        "clau_urbanistica": "PAU",
+        "Area": 3106.44,
+        "border": "#6242b8"
       },
       "geometry": {
         "type": "Polygon",
@@ -2424,8 +2526,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#6242b8",
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 25,
+        "clau_urbanistica": "PAU",
+        "Area": 1701.22,
+        "border": "#6242b8"
       },
       "geometry": {
         "type": "Polygon",
@@ -2466,8 +2574,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#6242b8",
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 26,
+        "clau_urbanistica": "PAU",
+        "Area": 1445.09,
+        "border": "#6242b8"
       },
       "geometry": {
         "type": "Polygon",
@@ -2540,8 +2654,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#6242b8",
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 27,
+        "clau_urbanistica": "PAU",
+        "Area": 4031.99,
+        "border": "#6242b8"
       },
       "geometry": {
         "type": "Polygon",
@@ -2614,8 +2734,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#6242b8",
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 28,
+        "clau_urbanistica": "PAU",
+        "Area": 9189.99,
+        "border": "#6242b8"
       },
       "geometry": {
         "type": "Polygon",
@@ -2664,8 +2790,11 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#6242b8",
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 29,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 12989.26,
+        "border": "#6242b8"
       },
       "geometry": {
         "type": "Polygon",
@@ -2706,8 +2835,11 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#6242b8",
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 30,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 43443.48,
+        "border": "#6242b8"
       },
       "geometry": {
         "type": "Polygon",
@@ -2760,8 +2892,12 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#6242b8",
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "stroke-width": "",
+        "Id": 31,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 8699.22,
+        "border": "#6242b8"
       },
       "geometry": {
         "type": "Polygon",
@@ -2842,8 +2978,11 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#6242b8",
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 32,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 5095.84,
+        "border": "#6242b8"
       },
       "geometry": {
         "type": "Polygon",
@@ -2916,8 +3055,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#6242b8",
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#216902",
+        "Id": 33,
+        "clau_urbanistica": "PEU",
+        "Area": 85280.97,
+        "border": "#216902"
       },
       "geometry": {
         "type": "Polygon",
@@ -3194,8 +3339,11 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#6242b8",
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 34,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 4736.34,
+        "border": "#6242b8"
       },
       "geometry": {
         "type": "Polygon",
@@ -3260,8 +3408,11 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#6242b8",
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 35,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 2341.22,
+        "border": "#6242b8"
       },
       "geometry": {
         "type": "Polygon",
@@ -3306,8 +3457,11 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#6242b8",
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 36,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 224.31,
+        "border": "#6242b8"
       },
       "geometry": {
         "type": "Polygon",
@@ -3340,8 +3494,11 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#6242b8",
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 37,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 7520.22,
+        "border": "#6242b8"
       },
       "geometry": {
         "type": "Polygon",
@@ -3378,8 +3535,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#6242b8",
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 38,
+        "clau_urbanistica": "PAU",
+        "Area": 3638.23,
+        "border": "#6242b8"
       },
       "geometry": {
         "type": "Polygon",
@@ -3424,8 +3587,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#6242b8",
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 39,
+        "clau_urbanistica": "PAU",
+        "Area": 8150.59,
+        "border": "#6242b8"
       },
       "geometry": {
         "type": "Polygon",
@@ -3526,8 +3695,11 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#6242b8",
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 40,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 1049.38,
+        "border": "#6242b8"
       },
       "geometry": {
         "type": "Polygon",
@@ -3580,8 +3752,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#6242b8",
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 41,
+        "clau_urbanistica": "PAU",
+        "Area": 2065.71,
+        "border": "#6242b8"
       },
       "geometry": {
         "type": "Polygon",
@@ -3614,8 +3792,11 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#6242b8",
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 42,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 4586.06,
+        "border": "#6242b8"
       },
       "geometry": {
         "type": "Polygon",
@@ -3664,8 +3845,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#6242b8",
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 43,
+        "clau_urbanistica": "PAU",
+        "Area": 1802.29,
+        "border": "#6242b8"
       },
       "geometry": {
         "type": "Polygon",
@@ -3722,8 +3909,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#6242b8",
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 44,
+        "clau_urbanistica": "PAU",
+        "Area": 85280.97,
+        "border": "#6242b8"
       },
       "geometry": {
         "type": "Polygon",
@@ -3756,8 +3949,11 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#6242b8",
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 45,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 8326.65,
+        "border": "#6242b8"
       },
       "geometry": {
         "type": "Polygon",
@@ -3794,8 +3990,11 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#6242b8",
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 46,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 11001.01,
+        "border": "#6242b8"
       },
       "geometry": {
         "type": "Polygon",
@@ -3828,8 +4027,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#6242b8",
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 47,
+        "clau_urbanistica": "PAU",
+        "Area": 3246.81,
+        "border": "#6242b8"
       },
       "geometry": {
         "type": "Polygon",
@@ -3878,8 +4083,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#6242b8",
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 48,
+        "clau_urbanistica": "PAU",
+        "Area": 4777.19,
+        "border": "#6242b8"
       },
       "geometry": {
         "type": "Polygon",
@@ -3920,8 +4131,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#6242b8",
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 49,
+        "clau_urbanistica": "PAU",
+        "Area": 876.61,
+        "border": "#6242b8"
       },
       "geometry": {
         "type": "Polygon",
@@ -3954,8 +4171,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#6242b8",
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 50,
+        "clau_urbanistica": "PAU",
+        "Area": 5678.01,
+        "border": "#6242b8"
       },
       "geometry": {
         "type": "Polygon",
@@ -4032,8 +4255,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#6242b8",
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 51,
+        "clau_urbanistica": "PAU",
+        "Area": 62269.71,
+        "border": "#6242b8"
       },
       "geometry": {
         "type": "Polygon",
@@ -4114,8 +4343,11 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#6242b8",
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 52,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 5088.96,
+        "border": "#6242b8"
       },
       "geometry": {
         "type": "Polygon",
@@ -4176,8 +4408,11 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#6242b8",
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 53,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 1587.34,
+        "border": "#6242b8"
       },
       "geometry": {
         "type": "Polygon",
@@ -4218,8 +4453,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#6242b8",
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 54,
+        "clau_urbanistica": "PAU",
+        "Area": 6242.78,
+        "border": "#6242b8"
       },
       "geometry": {
         "type": "Polygon",
@@ -4304,8 +4545,11 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#6242b8",
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 55,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 3114.87,
+        "border": "#6242b8"
       },
       "geometry": {
         "type": "Polygon",
@@ -4358,7 +4602,11 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 56,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": "22640.00",
+        "border": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -4571,7 +4819,10 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 57,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 8682.23
       },
       "geometry": {
         "type": "Polygon",
@@ -4632,7 +4883,10 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 58,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 319.04
       },
       "geometry": {
         "type": "Polygon",
@@ -4661,7 +4915,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 59,
+        "clau_urbanistica": "PAU",
+        "Area": "2235.60",
+        "border": "#555555"
       },
       "geometry": {
         "type": "Polygon",
@@ -4734,7 +4995,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 60,
+        "clau_urbanistica": "PAU",
+        "Area": 893.06,
+        "border": "#555555"
       },
       "geometry": {
         "type": "Polygon",
@@ -4779,7 +5047,10 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 61,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 13695.95
       },
       "geometry": {
         "type": "Polygon",
@@ -4840,7 +5111,10 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 62,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 1220.75
       },
       "geometry": {
         "type": "Polygon",
@@ -4889,7 +5163,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 63,
+        "clau_urbanistica": "PAU",
+        "Area": 449.09,
+        "border": "#555555"
       },
       "geometry": {
         "type": "Polygon",
@@ -4922,7 +5203,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 64,
+        "clau_urbanistica": "PAU",
+        "Area": 1625.67,
+        "border": "#555555"
       },
       "geometry": {
         "type": "Polygon",
@@ -4975,7 +5263,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 65,
+        "clau_urbanistica": "PAU",
+        "Area": 7039.59,
+        "border": "#555555"
       },
       "geometry": {
         "type": "Polygon",
@@ -5016,7 +5311,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 66,
+        "clau_urbanistica": "PAU",
+        "Area": 7904.52,
+        "border": "#555555"
       },
       "geometry": {
         "type": "Polygon",
@@ -5057,7 +5359,10 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 67,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 5398.77
       },
       "geometry": {
         "type": "Polygon",
@@ -5110,7 +5415,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 68,
+        "clau_urbanistica": "PAU",
+        "Area": 1843.79,
+        "border": "#555555"
       },
       "geometry": {
         "type": "Polygon",
@@ -5159,7 +5471,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 69,
+        "clau_urbanistica": "PAU",
+        "Area": 2856.35,
+        "border": "#555555"
       },
       "geometry": {
         "type": "Polygon",
@@ -5200,7 +5519,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 70,
+        "clau_urbanistica": "PAU",
+        "Area": 5445.03,
+        "border": "#555555"
       },
       "geometry": {
         "type": "Polygon",
@@ -5281,7 +5607,10 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 71,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 49399.22
       },
       "geometry": {
         "type": "Polygon",
@@ -5406,7 +5735,10 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 72,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": "129516.20"
       },
       "geometry": {
         "type": "Polygon",
@@ -5547,7 +5879,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 73,
+        "clau_urbanistica": "PAU",
+        "Area": 3251.03,
+        "border": "#555555"
       },
       "geometry": {
         "type": "Polygon",
@@ -5580,7 +5919,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 74,
+        "clau_urbanistica": "PAU",
+        "Area": 6012.26,
+        "border": "#555555"
       },
       "geometry": {
         "type": "Polygon",
@@ -5653,7 +5999,10 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 75,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 84407.75
       },
       "geometry": {
         "type": "Polygon",
@@ -5850,7 +6199,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#e11919",
+        "Id": 76,
+        "clau_urbanistica": "SND",
+        "Area": 422138.32,
+        "border": "#e11919"
       },
       "geometry": {
         "type": "Polygon",
@@ -6067,7 +6423,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 77,
+        "clau_urbanistica": "PAU",
+        "Area": 2120.99,
+        "border": "#555555"
       },
       "geometry": {
         "type": "Polygon",
@@ -6100,7 +6463,10 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 78,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 36872.18
       },
       "geometry": {
         "type": "Polygon",
@@ -6189,7 +6555,10 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 79,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": "6589.60"
       },
       "geometry": {
         "type": "Polygon",
@@ -6226,7 +6595,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 80,
+        "clau_urbanistica": "PAU",
+        "Area": 2307.08,
+        "border": "#555555"
       },
       "geometry": {
         "type": "Polygon",
@@ -6279,7 +6655,10 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 81,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 30684.92
       },
       "geometry": {
         "type": "Polygon",
@@ -6356,7 +6735,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 82,
+        "clau_urbanistica": "PAU",
+        "Area": 1064.81,
+        "border": "#555555"
       },
       "geometry": {
         "type": "Polygon",
@@ -6397,7 +6783,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 83,
+        "clau_urbanistica": "PAU",
+        "Area": 1310.95,
+        "border": "#555555"
       },
       "geometry": {
         "type": "Polygon",
@@ -6438,7 +6831,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 84,
+        "clau_urbanistica": "PAU",
+        "Area": 1379.27,
+        "border": "#555555"
       },
       "geometry": {
         "type": "Polygon",
@@ -6487,7 +6887,10 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 85,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 51165.86
       },
       "geometry": {
         "type": "Polygon",
@@ -6616,7 +7019,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 86,
+        "clau_urbanistica": "PAU",
+        "Area": 8924.45,
+        "border": "#555555"
       },
       "geometry": {
         "type": "Polygon",
@@ -6701,7 +7111,10 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 87,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 6588.57
       },
       "geometry": {
         "type": "Polygon",
@@ -6766,7 +7179,10 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 88,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 170260.56
       },
       "geometry": {
         "type": "Polygon",
@@ -6851,7 +7267,10 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 89,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 311182.15
       },
       "geometry": {
         "type": "Polygon",
@@ -6984,7 +7403,10 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 90,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 17797.06
       },
       "geometry": {
         "type": "Polygon",
@@ -7029,7 +7451,10 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 91,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": "19086.70"
       },
       "geometry": {
         "type": "Polygon",
@@ -7082,7 +7507,10 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 92,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 5089.64
       },
       "geometry": {
         "type": "Polygon",
@@ -7127,7 +7555,10 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 93,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 7764.18
       },
       "geometry": {
         "type": "Polygon",
@@ -7180,7 +7611,11 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 94,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 2426.91,
+        "border": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -7217,7 +7652,10 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 95,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 8405.44
       },
       "geometry": {
         "type": "Polygon",
@@ -7286,7 +7724,11 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 96,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 5722.27,
+        "border": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -7331,7 +7773,10 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 97,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 9658.63
       },
       "geometry": {
         "type": "Polygon",
@@ -7364,7 +7809,11 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 98,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 14441.38,
+        "border": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -7473,7 +7922,11 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 99,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 9355.34,
+        "border": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -7518,7 +7971,11 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 100,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 161287.05,
+        "border": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -7763,7 +8220,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 101,
+        "clau_urbanistica": "PAU",
+        "Area": 15089.54,
+        "border": "#555555"
       },
       "geometry": {
         "type": "Polygon",
@@ -7808,7 +8272,10 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 102,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 56133.12
       },
       "geometry": {
         "type": "Polygon",
@@ -7897,7 +8364,10 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 103,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 27020.56
       },
       "geometry": {
         "type": "Polygon",
@@ -7966,7 +8436,10 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 104,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 20585.49
       },
       "geometry": {
         "type": "Polygon",
@@ -8039,7 +8512,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 105,
+        "clau_urbanistica": "PAU",
+        "Area": 2588.79,
+        "border": "#555555"
       },
       "geometry": {
         "type": "Polygon",
@@ -8076,7 +8556,10 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 106,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 1110.82
       },
       "geometry": {
         "type": "Polygon",
@@ -8109,7 +8592,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 107,
+        "clau_urbanistica": "PAU",
+        "Area": 1626.69,
+        "border": "#555555"
       },
       "geometry": {
         "type": "Polygon",
@@ -8158,7 +8648,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 108,
+        "clau_urbanistica": "PAU",
+        "Area": 2776.33,
+        "border": "#555555"
       },
       "geometry": {
         "type": "Polygon",
@@ -8191,7 +8688,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 109,
+        "clau_urbanistica": "PAU",
+        "Area": 1249.48,
+        "border": "#555555"
       },
       "geometry": {
         "type": "Polygon",
@@ -8224,7 +8728,10 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 110,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 18455.11
       },
       "geometry": {
         "type": "Polygon",
@@ -8309,7 +8816,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 111,
+        "clau_urbanistica": "PAU",
+        "Area": 2019.79,
+        "border": "#555555"
       },
       "geometry": {
         "type": "Polygon",
@@ -8358,7 +8872,10 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 112,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 3432.93
       },
       "geometry": {
         "type": "Polygon",
@@ -8435,7 +8952,10 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 113,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 21357.46
       },
       "geometry": {
         "type": "Polygon",
@@ -8508,7 +9028,10 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 114,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 1943.81
       },
       "geometry": {
         "type": "Polygon",
@@ -8557,7 +9080,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 115,
+        "clau_urbanistica": "PAU",
+        "Area": 838.46,
+        "border": "#555555"
       },
       "geometry": {
         "type": "Polygon",
@@ -8594,7 +9124,10 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 116,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 34550.48
       },
       "geometry": {
         "type": "Polygon",
@@ -8727,7 +9260,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 117,
+        "clau_urbanistica": "PAU",
+        "Area": 1021.55,
+        "border": "#555555"
       },
       "geometry": {
         "type": "Polygon",
@@ -8776,7 +9316,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 118,
+        "clau_urbanistica": "PAU",
+        "Area": 1069.57,
+        "border": "#555555"
       },
       "geometry": {
         "type": "Polygon",
@@ -8813,7 +9360,10 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 119,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 2117.62
       },
       "geometry": {
         "type": "Polygon",
@@ -8850,7 +9400,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 120,
+        "clau_urbanistica": "PAU",
+        "Area": 1657.32,
+        "border": "#555555"
       },
       "geometry": {
         "type": "Polygon",
@@ -8883,7 +9440,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#216902",
+        "Id": 121,
+        "clau_urbanistica": "PEU",
+        "Area": "5047.60",
+        "border": "#216902"
       },
       "geometry": {
         "type": "Polygon",
@@ -8932,7 +9496,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 122,
+        "clau_urbanistica": "PAU",
+        "Area": 828.04,
+        "border": "#555555"
       },
       "geometry": {
         "type": "Polygon",
@@ -8969,7 +9540,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#624c530962b8",
+        "Id": 123,
+        "clau_urbanistica": "PAU",
+        "Area": 8380.31,
+        "border": "#555555"
       },
       "geometry": {
         "type": "Polygon",
@@ -9002,7 +9580,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 124,
+        "clau_urbanistica": "PAU",
+        "Area": 1915.98,
+        "border": "#555555"
       },
       "geometry": {
         "type": "Polygon",
@@ -9035,7 +9620,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 125,
+        "clau_urbanistica": "PAU",
+        "Area": 20541.21,
+        "border": "#555555"
       },
       "geometry": {
         "type": "Polygon",
@@ -9076,7 +9668,10 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 126,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": "8522.60"
       },
       "geometry": {
         "type": "Polygon",
@@ -9129,7 +9724,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 127,
+        "clau_urbanistica": "PAU",
+        "Area": 1151.66,
+        "border": "#555555"
       },
       "geometry": {
         "type": "Polygon",
@@ -9174,7 +9776,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 128,
+        "clau_urbanistica": "PAU",
+        "Area": 3029.01,
+        "border": "#555555"
       },
       "geometry": {
         "type": "Polygon",
@@ -9207,7 +9816,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 129,
+        "clau_urbanistica": "PAU",
+        "Area": 3621.01,
+        "border": "#555555"
       },
       "geometry": {
         "type": "Polygon",
@@ -9244,7 +9860,10 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 130,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 596.34
       },
       "geometry": {
         "type": "Polygon",
@@ -9277,7 +9896,10 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 131,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 5829.33
       },
       "geometry": {
         "type": "Polygon",
@@ -9326,7 +9948,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 132,
+        "clau_urbanistica": "PAU",
+        "Area": 828.98,
+        "border": "#555555"
       },
       "geometry": {
         "type": "Polygon",
@@ -9367,7 +9996,10 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 133,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 2796.08
       },
       "geometry": {
         "type": "Polygon",
@@ -9476,7 +10108,10 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 134,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 2769.98
       },
       "geometry": {
         "type": "Polygon",
@@ -9513,7 +10148,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#216902",
+        "Id": 135,
+        "clau_urbanistica": "PEU",
+        "Area": 2453.42,
+        "border": "#216902"
       },
       "geometry": {
         "type": "Polygon",
@@ -9546,7 +10188,10 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 136,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 2102.06
       },
       "geometry": {
         "type": "Polygon",
@@ -9587,7 +10232,10 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 137,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 3459.67
       },
       "geometry": {
         "type": "Polygon",
@@ -9660,7 +10308,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 138,
+        "clau_urbanistica": "PAU",
+        "Area": 737.19,
+        "border": "#555555"
       },
       "geometry": {
         "type": "Polygon",
@@ -9693,7 +10348,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 139,
+        "clau_urbanistica": "PAU",
+        "Area": 661.61,
+        "border": "#555555"
       },
       "geometry": {
         "type": "Polygon",
@@ -9742,7 +10404,10 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 140,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 1762.81
       },
       "geometry": {
         "type": "Polygon",
@@ -9787,7 +10452,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 141,
+        "clau_urbanistica": "PAU",
+        "Area": 936.78,
+        "border": "#555555"
       },
       "geometry": {
         "type": "Polygon",
@@ -9824,7 +10496,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 142,
+        "clau_urbanistica": "PAU",
+        "Area": 466.92,
+        "border": "#555555"
       },
       "geometry": {
         "type": "Polygon",
@@ -9857,7 +10536,10 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 143,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 369.69
       },
       "geometry": {
         "type": "Polygon",
@@ -9890,7 +10572,10 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 144,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 2066.25
       },
       "geometry": {
         "type": "Polygon",
@@ -9971,7 +10656,10 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 145,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 712.02
       },
       "geometry": {
         "type": "Polygon",
@@ -10024,7 +10712,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 146,
+        "clau_urbanistica": "PAU",
+        "Area": 544.45,
+        "border": "#555555"
       },
       "geometry": {
         "type": "Polygon",
@@ -10057,7 +10752,10 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 147,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 2810.99
       },
       "geometry": {
         "type": "Polygon",
@@ -10102,7 +10800,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 148,
+        "clau_urbanistica": "PAU",
+        "Area": 2706.59,
+        "border": "#555555"
       },
       "geometry": {
         "type": "Polygon",
@@ -10183,7 +10888,14 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#c53096",
+        "Id": 149,
+        "clau_urbanistica": "PAU",
+        "Area": 539.44,
+        "border": "#555555"
       },
       "geometry": {
         "type": "Polygon",
@@ -10216,7 +10928,11 @@ var Min_Urb = {
     {
       "type": "Feature",
       "properties": {
-        "fill": "#6242b8"
+        "fill": "#6242b8",
+        "Id": 150,
+        "clau_urbanistica": "PMU / PPU",
+        "Area": 3101.57,
+        "border": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -10266,7 +10982,7 @@ var POUM = L.geoJSON(Min_Urb , {
     return {fillColor: feature.properties.fill,weight: 2,opacity: 1,color: feature.properties.fill,dashArray: '3',fillOpacity: 0.5}
   }
 }).bindPopup(function (layer) {
-  return `this is a ${layer.feature.geometry.type} with coordinates ${layer.feature.geometry.coordinates[0][0]}`
+  return `this is a ${layer.feature.geometry.type} with coordinates ${layer.feature.geometry.coordinates[0][0]}  Urbanistic key = ${layer.feature.properties.clau_urbanistica}`
 });
 
 
@@ -10291,15 +11007,15 @@ map.on('drag', function() {
     map.panInsideBounds(bounds, { animate: false });
 });
 L.control.scale({ metric: true, imperial : false }).addTo(map); //apareix escala a sota el mapa
-L.control
-L.marker([41.7252, 1.82335],{draggable: true, icon:myIcon}).addTo(map).bindPopup('Info ').openPopup(); // aquest es pot obrir quan el toques i dona informacio //icono q es pot moure
+
+// L.marker([41.7252, 1.82335],{draggable: true, icon:myIcon}).addTo(map).bindPopup('Info ').openPopup(); // aquest es pot obrir quan el toques i dona informacio //icono q es pot moure
 //------------------------
 
 //ADDING LAYERS---------
 
 var baseMaps = {
   "Dark" : dark,
-  "<span style='color: gray'>Grayscale</span>" : light,
+  "<span style='color: black'>Grayscale</span>" : light,
   "Satelit" : Satelit
 };
 var overlayMaps = {
