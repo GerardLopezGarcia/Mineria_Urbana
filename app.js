@@ -11037,66 +11037,70 @@ var layerControl = L.control.layers(baseMaps,overlayMaps).addTo(map);
 // per fer mapas amb gradients per tematiques 
 
 function getColor(d) {
-  return d > 1000 ? '#800026' :
-         d > 500  ? '#BD0026' :
-         d > 200  ? '#E31A1C' :
-         d > 100  ? '#FC4E2A' :
-         d > 50   ? '#FD8D3C' :
-         d > 20   ? '#FEB24C' :
+  return d > 140 ? '#800026' :
+         d > 120  ? '#BD0026' :
+         d > 100  ? '#E31A1C' :
+         d > 80  ? '#FC4E2A' :
+         d > 60   ? '#FD8D3C' :
+         d > 30   ? '#FEB24C' :
          d > 10   ? '#FED976' :
                     '#FFEDA0';
 }
+function style(feature) {
+  return {
+      fillColor: getColor(feature.properties.Id),
+      weight: 2,
+      opacity: 1,
+      color: 'white',
+      dashArray: '3',
+      fillOpacity: 0.7
+  };
+}
 
-// function style(feature) {
-//   return {
-//       fillColor: getColor(feature.properties.density),
-//       weight: 2,
-//       opacity: 1,
-//       color: 'white',
-//       dashArray: '3',
-//       fillOpacity: 0.7
-//   };
-// }
+function getColor2(d) {
+  return d == "2_agriculture" ? '#800026' :
+         d == "1_residential" ? '#BD0026' :
+                    '#FFEDA0';
+}
+function style2(feature) {
+  return {
+      fillColor: getColor2(feature.properties.currentUse),
+      weight: 2,
+      opacity: 1,
+      color: getColor2(feature.properties.currentUse),
+      dashArray: '3',
+      fillOpacity: 0.7
+  };
+}
 
 
 //////////////
 
 
-var AA = L.geoJSON(Min_Urb , {
-  style : function (feature) {
-    return {fillColor: "blue",weight: 2,opacity: 1,color: "blue",dashArray: '3',fillOpacity: 0.5}
-  }
-}).bindPopup(function (layer) {
+function zoomToFeature(e) {
+  map.fitBounds(e.target.getBounds());
+}
+
+function onEachFeature(feature, layer) {
+  layer.on({
+      click: zoomToFeature
+  })
+}
+
+
+
+var M_minerals = L.geoJSON(Min_Urb , {
+  style : style,
+  onEachFeature : onEachFeature }
+).bindPopup(function (layer) {
   return `this is a ${layer.feature.geometry.type} with coordinates ${layer.feature.geometry.coordinates[0][0]}`
 });
 
-layerControl.addOverlay(AA,"metall")
-
-// function style(feature) {
-//   return {
-//       fillColor: feature.properties.fill,
-//       weight: 2,
-//       opacity: 1,
-//       color: feature.properties.fill,
-//       // dashArray: '3',
-//       fillOpacity: 0.5
-//   };
-// }
-
-// L.geoJSON(Min_Urb, {style:style}).addTo(map);
+layerControl.addOverlay(M_minerals,"metall")
 
 
-// function highlightFeature(e) {
-//   var layer = e.target;
+import {info} from "./data.js"; // per arxius llargs millor aixo 
 
-//   layer.setStyle({
-//       weight: 5,
-//       color: '#666',
-//       dashArray: '',
-//       fillOpacity: 0.7
-//   });
+var infos = L.geoJSON(info, { style: style2})
 
-//   if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
-//       layer.bringToFront();
-//   }
-// }
+layerControl.addOverlay(infos,"todo");
