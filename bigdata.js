@@ -14,7 +14,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=0004313&rc2=00DG02A",
           "reference": "000431300DG02A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=000431300DG02A",
@@ -75,7 +75,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=0004314&rc2=00DG02A",
           "reference": "000431400DG02A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=000431400DG02A",
@@ -136,7 +136,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=0004315&rc2=00DG02A",
           "reference": "000431500DG02A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=000431500DG02A",
@@ -217,7 +217,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=0004400&rc2=00DG02A",
           "reference": "000440000DG02A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=000440000DG02A",
@@ -342,7 +342,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=0004401&rc2=00DG02A",
           "reference": "000440100DG02A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 3,
           "numberOfDw": 3,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=000440100DG02A",
@@ -463,7 +463,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=0008189&rc2=00DG02A",
           "reference": "000818900DG02A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=000818900DG02A",
@@ -568,7 +568,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=0008190&rc2=00DG02A",
           "reference": "000819000DG02A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=000819000DG02A",
@@ -673,7 +673,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=0008191&rc2=00DG02A",
           "reference": "000819100DG02A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=000819100DG02A",
@@ -766,7 +766,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=0008192&rc2=00DG02A",
           "reference": "000819200DG02A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=000819200DG02A",
@@ -875,7 +875,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=0008193&rc2=00DG02A",
           "reference": "000819300DG02A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=000819300DG02A",
@@ -952,7 +952,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=0008194&rc2=00DG02A",
           "reference": "000819400DG02A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=000819400DG02A",
@@ -1037,7 +1037,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=0009386&rc2=00DG02A",
           "reference": "000938600DG02A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=000938600DG02A",
@@ -1130,7 +1130,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=0012113&rc2=00DG02A",
           "reference": "001211300DG02A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=001211300DG02A",
@@ -1211,7 +1211,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=0012131&rc2=00DG02A",
           "reference": "001213100DG02A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=001213100DG02A",
@@ -1300,7 +1300,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=0012664&rc2=00DG02A",
           "reference": "001266400DG02A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 2,
           "numberOfDw": 2,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=001266400DG02A",
@@ -1425,7 +1425,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=0012665&rc2=00DG02A",
           "reference": "001266500DG02A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 2,
           "numberOfDw": 2,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=001266500DG02A",
@@ -1518,7 +1518,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=0013259&rc2=00DG01G",
           "reference": "001325900DG01G",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=001325900DG01G",
@@ -1775,7 +1775,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=0013264&rc2=00DG01G",
           "reference": "001326400DG01G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=001326400DG01G",
@@ -1852,7 +1852,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=0013265&rc2=00DG01G",
           "reference": "001326500DG01G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=001326500DG01G",
@@ -1929,7 +1929,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=0013266&rc2=00DG01G",
           "reference": "001326600DG01G",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=001326600DG01G",
@@ -2126,7 +2126,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=0013277&rc2=00DG01G",
           "reference": "001327700DG01G",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=001327700DG01G",
@@ -2179,7 +2179,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=0013278&rc2=00DG01G",
           "reference": "001327800DG01G",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=001327800DG01G",
@@ -2232,7 +2232,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=0014334&rc2=00DG01G",
           "reference": "001433400DG01G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 10,
           "numberOfDw": 8,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=001433400DG01G",
@@ -2297,7 +2297,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=0014335&rc2=00DG01G",
           "reference": "001433500DG01G",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=001433500DG01G",
@@ -2350,7 +2350,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=0014336&rc2=00DG01G",
           "reference": "001433600DG01G",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=001433600DG01G",
@@ -2551,7 +2551,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=0014337&rc2=00DG01G",
           "reference": "001433700DG01G",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 5,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=001433700DG01G",
@@ -2700,7 +2700,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=0014338&rc2=00DG01G",
           "reference": "001433800DG01G",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=001433800DG01G",
@@ -2777,7 +2777,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=0014339&rc2=00DG01G",
           "reference": "001433900DG01G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=001433900DG01G",
@@ -2846,7 +2846,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=0014341&rc2=00DG01G",
           "reference": "001434100DG01G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=001434100DG01G",
@@ -2939,7 +2939,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=0014673&rc2=00DG02A",
           "reference": "001467300DG02A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=001467300DG02A",
@@ -3084,7 +3084,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=0014680&rc2=DG0241A",
           "reference": "0014680DG0241A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0014680DG0241A",
@@ -3201,7 +3201,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=0015473&rc2=00DG02A",
           "reference": "001547300DG02A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=001547300DG02A",
@@ -3298,7 +3298,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=0015511&rc2=00DG02A",
           "reference": "001551100DG02A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 2,
           "numberOfDw": 2,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=001551100DG02A",
@@ -3399,7 +3399,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=0015514&rc2=00DG02A",
           "reference": "001551400DG02A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=001551400DG02A",
@@ -3452,7 +3452,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=0015521&rc2=00DG02A",
           "reference": "001552100DG02A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 3,
           "numberOfDw": 3,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=001552100DG02A",
@@ -3581,7 +3581,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=0015681&rc2=00DG02A",
           "reference": "001568100DG02A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=001568100DG02A",
@@ -3734,7 +3734,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=0015683&rc2=00DG02A",
           "reference": "001568300DG02A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=001568300DG02A",
@@ -3815,7 +3815,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=0015687&rc2=00DG02A",
           "reference": "001568700DG02A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=001568700DG02A",
@@ -3872,7 +3872,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=0017101&rc2=00DG02A",
           "reference": "001710100DG02A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=001710100DG02A",
@@ -3985,7 +3985,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=0017103&rc2=00DG02A",
           "reference": "001710300DG02A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=001710300DG02A",
@@ -4106,7 +4106,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=0017104&rc2=00DG02A",
           "reference": "001710400DG02A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=001710400DG02A",
@@ -4211,7 +4211,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=0019327&rc2=00DG01G",
           "reference": "001932700DG01G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 8,
           "numberOfDw": 8,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=001932700DG01G",
@@ -4296,7 +4296,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=0019328&rc2=00DG01G",
           "reference": "001932800DG01G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 20,
           "numberOfDw": 20,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=001932800DG01G",
@@ -4421,7 +4421,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=0019329&rc2=00DG01G",
           "reference": "001932900DG01G",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=001932900DG01G",
@@ -4474,7 +4474,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=0020434&rc2=00DG02A",
           "reference": "002043400DG02A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=002043400DG02A",
@@ -4551,7 +4551,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=0020435&rc2=00DG02A",
           "reference": "002043500DG02A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=002043500DG02A",
@@ -4676,7 +4676,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=0020436&rc2=00DG02A",
           "reference": "002043600DG02A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=002043600DG02A",
@@ -4745,7 +4745,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=0020457&rc2=00DG02A",
           "reference": "002045700DG02A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=002045700DG02A",
@@ -5066,7 +5066,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=0025523&rc2=00DG02C",
           "reference": "002552300DG02C",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=002552300DG02C",
@@ -5215,7 +5215,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=0707005&rc2=DG0200A",
           "reference": "0707005DG0200A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0707005DG0200A",
@@ -5388,7 +5388,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=0789004&rc2=DG0108G",
           "reference": "0789004DG0108G",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0789004DG0108G",
@@ -5441,7 +5441,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=0803302&rc2=DG0200D",
           "reference": "0803302DG0200D",
-          "currentUse": "4_3_publicServices",
+          "currentUse": "PublicServices",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0803302DG0200D",
@@ -5518,7 +5518,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0300195",
           "reference": "08112A00300195",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00300195",
@@ -5599,7 +5599,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0300202",
           "reference": "08112A00300202",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00300202",
@@ -5664,7 +5664,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0300241",
           "reference": "08112A00300241",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00300241",
@@ -5741,7 +5741,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0300298",
           "reference": "08112A00300298",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 2,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00300298",
@@ -5822,7 +5822,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0300322",
           "reference": "08112A00300322",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00300322",
@@ -5891,7 +5891,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0300329",
           "reference": "08112A00300329",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00300329",
@@ -6020,7 +6020,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0300340",
           "reference": "08112A00300340",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00300340",
@@ -6073,7 +6073,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0300341",
           "reference": "08112A00300341",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00300341",
@@ -6142,7 +6142,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0300344",
           "reference": "08112A00300344",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00300344",
@@ -6195,7 +6195,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0300345",
           "reference": "08112A00300345",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00300345",
@@ -6256,7 +6256,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0300347",
           "reference": "08112A00300347",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00300347",
@@ -6357,7 +6357,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0300404",
           "reference": "08112A00300404",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00300404",
@@ -6410,7 +6410,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0300405",
           "reference": "08112A00300405",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00300405",
@@ -6463,7 +6463,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0300406",
           "reference": "08112A00300406",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00300406",
@@ -6516,7 +6516,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0300407",
           "reference": "08112A00300407",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00300407",
@@ -6569,7 +6569,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0300408",
           "reference": "08112A00300408",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00300408",
@@ -6622,7 +6622,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0500193",
           "reference": "08112A00500193",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00500193",
@@ -6891,7 +6891,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0500205",
           "reference": "08112A00500205",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00500205",
@@ -6976,7 +6976,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0500255",
           "reference": "08112A00500255",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00500255",
@@ -7053,7 +7053,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0500334",
           "reference": "08112A00500334",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00500334",
@@ -7130,7 +7130,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0600041",
           "reference": "08112A00600041",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00600041",
@@ -7299,7 +7299,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0600044",
           "reference": "08112A00600044",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00600044",
@@ -7544,7 +7544,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0600046",
           "reference": "08112A00600046",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00600046",
@@ -7745,7 +7745,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0600055",
           "reference": "08112A00600055",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00600055",
@@ -7898,7 +7898,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0600058",
           "reference": "08112A00600058",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00600058",
@@ -8033,7 +8033,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0600060",
           "reference": "08112A00600060",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00600060",
@@ -8170,7 +8170,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0600061",
           "reference": "08112A00600061",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00600061",
@@ -8239,7 +8239,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0600062",
           "reference": "08112A00600062",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00600062",
@@ -8364,7 +8364,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0600065",
           "reference": "08112A00600065",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00600065",
@@ -8481,7 +8481,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0600077",
           "reference": "08112A00600077",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00600077",
@@ -8558,7 +8558,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0600081",
           "reference": "08112A00600081",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00600081",
@@ -8719,7 +8719,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0600082",
           "reference": "08112A00600082",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00600082",
@@ -8820,7 +8820,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0600083",
           "reference": "08112A00600083",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00600083",
@@ -8929,7 +8929,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0600084",
           "reference": "08112A00600084",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00600084",
@@ -9042,7 +9042,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0600085",
           "reference": "08112A00600085",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00600085",
@@ -9163,7 +9163,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0600089",
           "reference": "08112A00600089",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00600089",
@@ -9240,7 +9240,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0600094",
           "reference": "08112A00600094",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00600094",
@@ -9313,7 +9313,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0600095",
           "reference": "08112A00600095",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00600095",
@@ -9390,7 +9390,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0600096",
           "reference": "08112A00600096",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00600096",
@@ -9475,7 +9475,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0600101",
           "reference": "08112A00600101",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00600101",
@@ -9568,7 +9568,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0600107",
           "reference": "08112A00600107",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00600107",
@@ -9725,7 +9725,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0600142",
           "reference": "08112A00600142",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00600142",
@@ -9874,7 +9874,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0600297",
           "reference": "08112A00600297",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00600297",
@@ -9943,7 +9943,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0600298",
           "reference": "08112A00600298",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00600298",
@@ -9996,7 +9996,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0600299",
           "reference": "08112A00600299",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00600299",
@@ -10097,7 +10097,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0600301",
           "reference": "08112A00600301",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00600301",
@@ -10150,7 +10150,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0600302",
           "reference": "08112A00600302",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00600302",
@@ -10203,7 +10203,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0600303",
           "reference": "08112A00600303",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00600303",
@@ -10264,7 +10264,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0600304",
           "reference": "08112A00600304",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00600304",
@@ -10317,7 +10317,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0600305",
           "reference": "08112A00600305",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00600305",
@@ -10370,7 +10370,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0600306",
           "reference": "08112A00600306",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00600306",
@@ -10423,7 +10423,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0600307",
           "reference": "08112A00600307",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00600307",
@@ -10476,7 +10476,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0600308",
           "reference": "08112A00600308",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00600308",
@@ -10529,7 +10529,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0600309",
           "reference": "08112A00600309",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00600309",
@@ -10582,7 +10582,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0600310",
           "reference": "08112A00600310",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00600310",
@@ -10635,7 +10635,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0600311",
           "reference": "08112A00600311",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00600311",
@@ -10688,7 +10688,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0600312",
           "reference": "08112A00600312",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00600312",
@@ -10741,7 +10741,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0600313",
           "reference": "08112A00600313",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00600313",
@@ -10802,7 +10802,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0600314",
           "reference": "08112A00600314",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00600314",
@@ -10871,7 +10871,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0600315",
           "reference": "08112A00600315",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00600315",
@@ -10924,7 +10924,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0600316",
           "reference": "08112A00600316",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00600316",
@@ -11013,7 +11013,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0600317",
           "reference": "08112A00600317",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00600317",
@@ -11110,7 +11110,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0600321",
           "reference": "08112A00600321",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00600321",
@@ -11175,7 +11175,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0600324",
           "reference": "08112A00600324",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00600324",
@@ -11276,7 +11276,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0600327",
           "reference": "08112A00600327",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00600327",
@@ -11385,7 +11385,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0700001",
           "reference": "08112A00700001",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00700001",
@@ -11494,7 +11494,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0700002",
           "reference": "08112A00700002",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00700002",
@@ -11595,7 +11595,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0700012",
           "reference": "08112A00700012",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00700012",
@@ -11712,7 +11712,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0700013",
           "reference": "08112A00700013",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00700013",
@@ -11773,7 +11773,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0700018",
           "reference": "08112A00700018",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00700018",
@@ -11826,7 +11826,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0700019",
           "reference": "08112A00700019",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00700019",
@@ -11879,7 +11879,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0700020",
           "reference": "08112A00700020",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00700020",
@@ -11932,7 +11932,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0700023",
           "reference": "08112A00700023",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00700023",
@@ -11985,7 +11985,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0700026",
           "reference": "08112A00700026",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00700026",
@@ -12086,7 +12086,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0700027",
           "reference": "08112A00700027",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00700027",
@@ -12139,7 +12139,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0700029",
           "reference": "08112A00700029",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00700029",
@@ -12264,7 +12264,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0700045",
           "reference": "08112A00700045",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00700045",
@@ -12333,7 +12333,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0700048",
           "reference": "08112A00700048",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00700048",
@@ -12434,7 +12434,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0700057",
           "reference": "08112A00700057",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00700057",
@@ -12559,7 +12559,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0700062",
           "reference": "08112A00700062",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00700062",
@@ -12700,7 +12700,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0700066",
           "reference": "08112A00700066",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00700066",
@@ -12801,7 +12801,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0700070",
           "reference": "08112A00700070",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00700070",
@@ -12878,7 +12878,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0700097",
           "reference": "08112A00700097",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00700097",
@@ -12939,7 +12939,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0700105",
           "reference": "08112A00700105",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00700105",
@@ -13000,7 +13000,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0700106",
           "reference": "08112A00700106",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00700106",
@@ -13085,7 +13085,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0700108",
           "reference": "08112A00700108",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 3,
           "numberOfDw": 3,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00700108",
@@ -13174,7 +13174,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0700109",
           "reference": "08112A00700109",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00700109",
@@ -13255,7 +13255,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0700110",
           "reference": "08112A00700110",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00700110",
@@ -13312,7 +13312,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0800030",
           "reference": "08112A00800030",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00800030",
@@ -13425,7 +13425,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0800031",
           "reference": "08112A00800031",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00800031",
@@ -13498,7 +13498,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0800042",
           "reference": "08112A00800042",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00800042",
@@ -13563,7 +13563,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0900212",
           "reference": "08112A00900212",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00900212",
@@ -13672,7 +13672,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0900288",
           "reference": "08112A00900288",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00900288",
@@ -13757,7 +13757,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0900290",
           "reference": "08112A00900290",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00900290",
@@ -13818,7 +13818,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0900291",
           "reference": "08112A00900291",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00900291",
@@ -13895,7 +13895,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0900300",
           "reference": "08112A00900300",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00900300",
@@ -13972,7 +13972,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0900302",
           "reference": "08112A00900302",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00900302",
@@ -14025,7 +14025,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0900306",
           "reference": "08112A00900306",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00900306",
@@ -14110,7 +14110,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0900318",
           "reference": "08112A00900318",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 2,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00900318",
@@ -14163,7 +14163,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0900320",
           "reference": "08112A00900320",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00900320",
@@ -14320,7 +14320,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0900322",
           "reference": "08112A00900322",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00900322",
@@ -14381,7 +14381,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0900323",
           "reference": "08112A00900323",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00900323",
@@ -14434,7 +14434,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0900325",
           "reference": "08112A00900325",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00900325",
@@ -14535,7 +14535,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0900327",
           "reference": "08112A00900327",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00900327",
@@ -14588,7 +14588,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0900345",
           "reference": "08112A00900345",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00900345",
@@ -14729,7 +14729,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0900347",
           "reference": "08112A00900347",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00900347",
@@ -14818,7 +14818,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0900350",
           "reference": "08112A00900350",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00900350",
@@ -14939,7 +14939,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0900354",
           "reference": "08112A00900354",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00900354",
@@ -15016,7 +15016,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0900355",
           "reference": "08112A00900355",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00900355",
@@ -15069,7 +15069,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0900358",
           "reference": "08112A00900358",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00900358",
@@ -15254,7 +15254,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0900360",
           "reference": "08112A00900360",
-          "currentUse": "4_3_publicServices",
+          "currentUse": "PublicServices",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00900360",
@@ -15343,7 +15343,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0900362",
           "reference": "08112A00900362",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00900362",
@@ -15396,7 +15396,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0900364",
           "reference": "08112A00900364",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00900364",
@@ -15449,7 +15449,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0900366",
           "reference": "08112A00900366",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00900366",
@@ -15618,7 +15618,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0900368",
           "reference": "08112A00900368",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00900368",
@@ -15691,7 +15691,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0900400",
           "reference": "08112A00900400",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00900400",
@@ -15764,7 +15764,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0900401",
           "reference": "08112A00900401",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00900401",
@@ -15861,7 +15861,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0900452",
           "reference": "08112A00900452",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00900452",
@@ -15930,7 +15930,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0900453",
           "reference": "08112A00900453",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00900453",
@@ -15987,7 +15987,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0900455",
           "reference": "08112A00900455",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00900455",
@@ -16076,7 +16076,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=0900457",
           "reference": "08112A00900457",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A00900457",
@@ -16149,7 +16149,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=1000006",
           "reference": "08112A01000006",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A01000006",
@@ -16202,7 +16202,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=1000007",
           "reference": "08112A01000007",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A01000007",
@@ -16335,7 +16335,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=1000048",
           "reference": "08112A01000048",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A01000048",
@@ -16528,7 +16528,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=1000052",
           "reference": "08112A01000052",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A01000052",
@@ -16581,7 +16581,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=1000097",
           "reference": "08112A01000097",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A01000097",
@@ -16634,7 +16634,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=1000098",
           "reference": "08112A01000098",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A01000098",
@@ -16687,7 +16687,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=1400114",
           "reference": "08112A01400114",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A01400114",
@@ -16896,7 +16896,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=08112A0&rc2=1600168",
           "reference": "08112A01600168",
-          "currentUse": "4_2_retail",
+          "currentUse": "Retail",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=08112A01600168",
@@ -16989,7 +16989,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1010001&rc2=DG0211A",
           "reference": "1010001DG0211A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1010001DG0211A",
@@ -18714,7 +18714,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1010002&rc2=DG0211A",
           "reference": "1010002DG0211A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1010002DG0211A",
@@ -18811,7 +18811,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1097001&rc2=DG0119G",
           "reference": "1097001DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1097001DG0119G",
@@ -18900,7 +18900,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1097002&rc2=DG0119G",
           "reference": "1097002DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1097002DG0119G",
@@ -18961,7 +18961,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1097004&rc2=DG0119G",
           "reference": "1097004DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1097004DG0119G",
@@ -19082,7 +19082,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1097005&rc2=DG0119G",
           "reference": "1097005DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1097005DG0119G",
@@ -19215,7 +19215,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1097006&rc2=DG0119G",
           "reference": "1097006DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1097006DG0119G",
@@ -19312,7 +19312,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1097007&rc2=DG0119G",
           "reference": "1097007DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1097007DG0119G",
@@ -19397,7 +19397,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1097008&rc2=DG0119G",
           "reference": "1097008DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1097008DG0119G",
@@ -19454,7 +19454,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1097009&rc2=DG0119G",
           "reference": "1097009DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1097009DG0119G",
@@ -19535,7 +19535,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1097010&rc2=DG0119G",
           "reference": "1097010DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1097010DG0119G",
@@ -19612,7 +19612,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1097011&rc2=DG0119G",
           "reference": "1097011DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1097011DG0119G",
@@ -19753,7 +19753,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1097012&rc2=DG0119G",
           "reference": "1097012DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1097012DG0119G",
@@ -19814,7 +19814,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1097013&rc2=DG0119G",
           "reference": "1097013DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1097013DG0119G",
@@ -19887,7 +19887,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1097014&rc2=DG0119G",
           "reference": "1097014DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1097014DG0119G",
@@ -19980,7 +19980,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1097015&rc2=DG0119G",
           "reference": "1097015DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1097015DG0119G",
@@ -20061,7 +20061,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1097016&rc2=DG0119G",
           "reference": "1097016DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1097016DG0119G",
@@ -20186,7 +20186,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1097017&rc2=DG0119G",
           "reference": "1097017DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1097017DG0119G",
@@ -20287,7 +20287,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1097018&rc2=DG0119G",
           "reference": "1097018DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1097018DG0119G",
@@ -20372,7 +20372,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1097019&rc2=DG0119G",
           "reference": "1097019DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1097019DG0119G",
@@ -20461,7 +20461,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1097020&rc2=DG0119G",
           "reference": "1097020DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1097020DG0119G",
@@ -20530,7 +20530,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1097021&rc2=DG0119G",
           "reference": "1097021DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1097021DG0119G",
@@ -20603,7 +20603,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1097022&rc2=DG0119G",
           "reference": "1097022DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1097022DG0119G",
@@ -20704,7 +20704,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1097023&rc2=DG0119G",
           "reference": "1097023DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1097023DG0119G",
@@ -20801,7 +20801,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1097024&rc2=DG0119G",
           "reference": "1097024DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1097024DG0119G",
@@ -20854,7 +20854,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1097025&rc2=DG0119G",
           "reference": "1097025DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1097025DG0119G",
@@ -20919,7 +20919,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1097026&rc2=DG0119G",
           "reference": "1097026DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1097026DG0119G",
@@ -20992,7 +20992,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1097027&rc2=DG0119G",
           "reference": "1097027DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1097027DG0119G",
@@ -21085,7 +21085,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1097028&rc2=DG0119G",
           "reference": "1097028DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1097028DG0119G",
@@ -21162,7 +21162,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1097029&rc2=DG0119G",
           "reference": "1097029DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1097029DG0119G",
@@ -21251,7 +21251,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1097030&rc2=DG0119G",
           "reference": "1097030DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1097030DG0119G",
@@ -21344,7 +21344,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1097031&rc2=DG0119G",
           "reference": "1097031DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1097031DG0119G",
@@ -21421,7 +21421,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1097032&rc2=DG0119G",
           "reference": "1097032DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1097032DG0119G",
@@ -21494,7 +21494,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1097033&rc2=DG0119G",
           "reference": "1097033DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1097033DG0119G",
@@ -21571,7 +21571,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1097034&rc2=DG0119G",
           "reference": "1097034DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1097034DG0119G",
@@ -21676,7 +21676,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1097036&rc2=DG0119G",
           "reference": "1097036DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 3,
           "numberOfDw": 3,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1097036DG0119G",
@@ -21777,7 +21777,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1097037&rc2=DG0119G",
           "reference": "1097037DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1097037DG0119G",
@@ -21862,7 +21862,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1097038&rc2=DG0119G",
           "reference": "1097038DG0119G",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1097038DG0119G",
@@ -21931,7 +21931,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1097039&rc2=DG0119G",
           "reference": "1097039DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1097039DG0119G",
@@ -22008,7 +22008,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1097040&rc2=DG0119G",
           "reference": "1097040DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1097040DG0119G",
@@ -22081,7 +22081,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1097041&rc2=DG0119G",
           "reference": "1097041DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1097041DG0119G",
@@ -22150,7 +22150,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1097042&rc2=DG0119G",
           "reference": "1097042DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1097042DG0119G",
@@ -22231,7 +22231,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1097043&rc2=DG0119G",
           "reference": "1097043DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1097043DG0119G",
@@ -22284,7 +22284,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1097044&rc2=DG0119G",
           "reference": "1097044DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1097044DG0119G",
@@ -22357,7 +22357,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1097045&rc2=DG0119G",
           "reference": "1097045DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1097045DG0119G",
@@ -22434,7 +22434,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1097046&rc2=DG0119G",
           "reference": "1097046DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1097046DG0119G",
@@ -22511,7 +22511,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1097047&rc2=DG0119G",
           "reference": "1097047DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1097047DG0119G",
@@ -22624,7 +22624,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1097049&rc2=DG0119G",
           "reference": "1097049DG0119G",
-          "currentUse": "4_3_publicServices",
+          "currentUse": "PublicServices",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1097049DG0119G",
@@ -22677,7 +22677,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1097050&rc2=DG0119G",
           "reference": "1097050DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1097050DG0119G",
@@ -22730,7 +22730,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1097051&rc2=DG0119G",
           "reference": "1097051DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1097051DG0119G",
@@ -22799,7 +22799,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1305301&rc2=DG0210A",
           "reference": "1305301DG0210A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1305301DG0210A",
@@ -22908,7 +22908,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1305302&rc2=DG0210A",
           "reference": "1305302DG0210A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1305302DG0210A",
@@ -23001,7 +23001,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1305303&rc2=DG0210A",
           "reference": "1305303DG0210A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1305303DG0210A",
@@ -23126,7 +23126,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1305304&rc2=DG0210A",
           "reference": "1305304DG0210A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1305304DG0210A",
@@ -23263,7 +23263,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1309013&rc2=DG0210A",
           "reference": "1309013DG0210A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1309013DG0210A",
@@ -23368,7 +23368,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1309019&rc2=DG0210A",
           "reference": "1309019DG0210A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1309019DG0210A",
@@ -23457,7 +23457,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1309020&rc2=DG0210A",
           "reference": "1309020DG0210A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1309020DG0210A",
@@ -23530,7 +23530,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1309027&rc2=DG0210A",
           "reference": "1309027DG0210A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1309027DG0210A",
@@ -23639,7 +23639,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1309028&rc2=DG0210A",
           "reference": "1309028DG0210A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1309028DG0210A",
@@ -23764,7 +23764,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1309030&rc2=DG0210A",
           "reference": "1309030DG0210A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1309030DG0210A",
@@ -23841,7 +23841,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1309031&rc2=DG0210A",
           "reference": "1309031DG0210A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1309031DG0210A",
@@ -23970,7 +23970,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1309032&rc2=DG0210A",
           "reference": "1309032DG0210A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1309032DG0210A",
@@ -24101,7 +24101,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1309033&rc2=DG0210A",
           "reference": "1309033DG0210A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 2,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1309033DG0210A",
@@ -24226,7 +24226,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1309034&rc2=DG0210A",
           "reference": "1309034DG0210A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1309034DG0210A",
@@ -24375,7 +24375,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1309036&rc2=DG0210A",
           "reference": "1309036DG0210A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1309036DG0210A",
@@ -24508,7 +24508,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1309037&rc2=DG0210A",
           "reference": "1309037DG0210A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1309037DG0210A",
@@ -24605,7 +24605,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1309046&rc2=DG0210A",
           "reference": "1309046DG0210A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1309046DG0210A",
@@ -24762,7 +24762,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1309047&rc2=DG0210A",
           "reference": "1309047DG0210A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 2,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1309047DG0210A",
@@ -24883,7 +24883,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1309048&rc2=DG0210A",
           "reference": "1309048DG0210A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1309048DG0210A",
@@ -25044,7 +25044,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1309049&rc2=DG0210A",
           "reference": "1309049DG0210A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1309049DG0210A",
@@ -25141,7 +25141,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1309050&rc2=DG0210A",
           "reference": "1309050DG0210A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1309050DG0210A",
@@ -25242,7 +25242,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1309051&rc2=DG0210A",
           "reference": "1309051DG0210A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 2,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1309051DG0210A",
@@ -25327,7 +25327,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1309053&rc2=DG0210A",
           "reference": "1309053DG0210A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 2,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1309053DG0210A",
@@ -25488,7 +25488,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1395004&rc2=DG0119G",
           "reference": "1395004DG0119G",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1395004DG0119G",
@@ -25605,7 +25605,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1596001&rc2=DG0119G",
           "reference": "1596001DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1596001DG0119G",
@@ -25710,7 +25710,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1596002&rc2=DG0119G",
           "reference": "1596002DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1596002DG0119G",
@@ -25827,7 +25827,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1596003&rc2=DG0119G",
           "reference": "1596003DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1596003DG0119G",
@@ -25928,7 +25928,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1596004&rc2=DG0119G",
           "reference": "1596004DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1596004DG0119G",
@@ -26021,7 +26021,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1596005&rc2=DG0119G",
           "reference": "1596005DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1596005DG0119G",
@@ -26138,7 +26138,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1596006&rc2=DG0119G",
           "reference": "1596006DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1596006DG0119G",
@@ -26247,7 +26247,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1596008&rc2=DG0119G",
           "reference": "1596008DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1596008DG0119G",
@@ -26420,7 +26420,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1596010&rc2=DG0119G",
           "reference": "1596010DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 2,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1596010DG0119G",
@@ -26501,7 +26501,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1596011&rc2=DG0119G",
           "reference": "1596011DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 2,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1596011DG0119G",
@@ -26574,7 +26574,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1596012&rc2=DG0119G",
           "reference": "1596012DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 2,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1596012DG0119G",
@@ -26663,7 +26663,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1596014&rc2=DG0119G",
           "reference": "1596014DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1596014DG0119G",
@@ -26732,7 +26732,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1596015&rc2=DG0119G",
           "reference": "1596015DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1596015DG0119G",
@@ -26813,7 +26813,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1596016&rc2=DG0119G",
           "reference": "1596016DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1596016DG0119G",
@@ -26882,7 +26882,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1596017&rc2=DG0119G",
           "reference": "1596017DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 3,
           "numberOfDw": 3,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1596017DG0119G",
@@ -26995,7 +26995,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1596018&rc2=DG0119G",
           "reference": "1596018DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1596018DG0119G",
@@ -27084,7 +27084,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1596019&rc2=DG0119G",
           "reference": "1596019DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1596019DG0119G",
@@ -27177,7 +27177,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1596020&rc2=DG0119G",
           "reference": "1596020DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1596020DG0119G",
@@ -27274,7 +27274,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1596021&rc2=DG0119G",
           "reference": "1596021DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1596021DG0119G",
@@ -27355,7 +27355,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1596022&rc2=DG0119G",
           "reference": "1596022DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1596022DG0119G",
@@ -27420,7 +27420,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1596023&rc2=DG0119G",
           "reference": "1596023DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1596023DG0119G",
@@ -27505,7 +27505,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1602001&rc2=DG0210A",
           "reference": "1602001DG0210A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 15,
           "numberOfDw": 15,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1602001DG0210A",
@@ -27676,7 +27676,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1602002&rc2=DG0210A",
           "reference": "1602002DG0210A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 15,
           "numberOfDw": 15,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1602002DG0210A",
@@ -27845,7 +27845,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1602003&rc2=DG0210A",
           "reference": "1602003DG0210A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 10,
           "numberOfDw": 10,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1602003DG0210A",
@@ -27972,7 +27972,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1602004&rc2=DG0210A",
           "reference": "1602004DG0210A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 32,
           "numberOfDw": 24,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1602004DG0210A",
@@ -28143,7 +28143,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1602005&rc2=DG0210A",
           "reference": "1602005DG0210A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 18,
           "numberOfDw": 12,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1602005DG0210A",
@@ -28340,7 +28340,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1602006&rc2=DG0210A",
           "reference": "1602006DG0210A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 10,
           "numberOfDw": 10,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1602006DG0210A",
@@ -28469,7 +28469,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1602007&rc2=DG0210A",
           "reference": "1602007DG0210A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 15,
           "numberOfDw": 15,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1602007DG0210A",
@@ -28622,7 +28622,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1602008&rc2=DG0210A",
           "reference": "1602008DG0210A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 10,
           "numberOfDw": 10,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1602008DG0210A",
@@ -28751,7 +28751,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1602009&rc2=DG0210A",
           "reference": "1602009DG0210A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 10,
           "numberOfDw": 10,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1602009DG0210A",
@@ -28872,7 +28872,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1602010&rc2=DG0210A",
           "reference": "1602010DG0210A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 15,
           "numberOfDw": 15,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1602010DG0210A",
@@ -29017,7 +29017,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1602011&rc2=DG0210A",
           "reference": "1602011DG0210A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 10,
           "numberOfDw": 10,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1602011DG0210A",
@@ -29138,7 +29138,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1602012&rc2=DG0210A",
           "reference": "1602012DG0210A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 10,
           "numberOfDw": 10,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1602012DG0210A",
@@ -29273,7 +29273,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1602013&rc2=DG0210A",
           "reference": "1602013DG0210A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 10,
           "numberOfDw": 10,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1602013DG0210A",
@@ -29374,7 +29374,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1602014&rc2=DG0210A",
           "reference": "1602014DG0210A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 10,
           "numberOfDw": 10,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1602014DG0210A",
@@ -29491,7 +29491,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1602015&rc2=DG0210A",
           "reference": "1602015DG0210A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 15,
           "numberOfDw": 15,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1602015DG0210A",
@@ -29640,7 +29640,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1602016&rc2=DG0210A",
           "reference": "1602016DG0210A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 15,
           "numberOfDw": 15,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1602016DG0210A",
@@ -29793,7 +29793,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1602017&rc2=DG0210A",
           "reference": "1602017DG0210A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 15,
           "numberOfDw": 15,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1602017DG0210A",
@@ -29950,7 +29950,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1602018&rc2=DG0210A",
           "reference": "1602018DG0210A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 10,
           "numberOfDw": 10,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1602018DG0210A",
@@ -30071,7 +30071,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1602019&rc2=DG0210A",
           "reference": "1602019DG0210A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1602019DG0210A",
@@ -30128,7 +30128,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1602020&rc2=DG0210A",
           "reference": "1602020DG0210A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 10,
           "numberOfDw": 10,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1602020DG0210A",
@@ -30241,7 +30241,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1602021&rc2=DG0210A",
           "reference": "1602021DG0210A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 10,
           "numberOfDw": 10,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1602021DG0210A",
@@ -30342,7 +30342,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1602022&rc2=DG0210A",
           "reference": "1602022DG0210A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 10,
           "numberOfDw": 10,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1602022DG0210A",
@@ -30461,7 +30461,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1602023&rc2=DG0210A",
           "reference": "1602023DG0210A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 10,
           "numberOfDw": 10,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1602023DG0210A",
@@ -30580,7 +30580,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1602024&rc2=DG0210A",
           "reference": "1602024DG0210A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 10,
           "numberOfDw": 10,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1602024DG0210A",
@@ -30681,7 +30681,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1602025&rc2=DG0210A",
           "reference": "1602025DG0210A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 10,
           "numberOfDw": 10,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1602025DG0210A",
@@ -30790,7 +30790,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1607014&rc2=DG0210A",
           "reference": "1607014DG0210A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 2,
           "numberOfDw": 2,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1607014DG0210A",
@@ -30935,7 +30935,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1607020&rc2=DG0210A",
           "reference": "1607020DG0210A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1607020DG0210A",
@@ -31068,7 +31068,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1607021&rc2=DG0210A",
           "reference": "1607021DG0210A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1607021DG0210A",
@@ -31157,7 +31157,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1607022&rc2=DG0210A",
           "reference": "1607022DG0210A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1607022DG0210A",
@@ -31274,7 +31274,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1607041&rc2=DG0210A",
           "reference": "1607041DG0210A",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1607041DG0210A",
@@ -31367,7 +31367,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1609624&rc2=DG0210A",
           "reference": "1609624DG0210A",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1609624DG0210A",
@@ -31524,7 +31524,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1646018&rc2=DG0214C",
           "reference": "1646018DG0214C",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1646018DG0214C",
@@ -31645,7 +31645,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1646019&rc2=DG0214C",
           "reference": "1646019DG0214C",
-          "currentUse": "4_2_retail",
+          "currentUse": "Retail",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1646019DG0214C",
@@ -31730,7 +31730,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1703015&rc2=DG0210A",
           "reference": "1703015DG0210A",
-          "currentUse": "4_2_retail",
+          "currentUse": "Retail",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1703015DG0210A",
@@ -31847,7 +31847,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1703016&rc2=DG0210A",
           "reference": "1703016DG0210A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1703016DG0210A",
@@ -31940,7 +31940,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1703017&rc2=DG0210A",
           "reference": "1703017DG0210A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 10,
           "numberOfDw": 4,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1703017DG0210A",
@@ -32121,7 +32121,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1711001&rc2=DG0211A",
           "reference": "1711001DG0211A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1711001DG0211A",
@@ -32278,7 +32278,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1711002&rc2=DG0211A",
           "reference": "1711002DG0211A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1711002DG0211A",
@@ -32423,7 +32423,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1711003&rc2=DG0211A",
           "reference": "1711003DG0211A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1711003DG0211A",
@@ -32548,7 +32548,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1715407&rc2=DG0211A",
           "reference": "1715407DG0211A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1715407DG0211A",
@@ -32613,7 +32613,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1805812&rc2=DG0210A",
           "reference": "1805812DG0210A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 4,
           "numberOfDw": 3,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1805812DG0210A",
@@ -32758,7 +32758,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1805813&rc2=DG0210A",
           "reference": "1805813DG0210A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1805813DG0210A",
@@ -32911,7 +32911,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1805814&rc2=DG0210A",
           "reference": "1805814DG0210A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1805814DG0210A",
@@ -33140,7 +33140,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1809021&rc2=DG0210A",
           "reference": "1809021DG0210A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1809021DG0210A",
@@ -33225,7 +33225,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1809037&rc2=DG0210A",
           "reference": "1809037DG0210A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1809037DG0210A",
@@ -33318,7 +33318,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1809040&rc2=DG0210A",
           "reference": "1809040DG0210A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1809040DG0210A",
@@ -33423,7 +33423,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1809041&rc2=DG0210A",
           "reference": "1809041DG0210A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1809041DG0210A",
@@ -33516,7 +33516,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1809042&rc2=DG0210A",
           "reference": "1809042DG0210A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1809042DG0210A",
@@ -33661,7 +33661,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1809043&rc2=DG0210A",
           "reference": "1809043DG0210A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1809043DG0210A",
@@ -33742,7 +33742,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=18110F8&rc2=DG0211A",
           "reference": "18110F8DG0211A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=18110F8DG0211A",
@@ -33799,7 +33799,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=18110F9&rc2=DG0211A",
           "reference": "18110F9DG0211A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=18110F9DG0211A",
@@ -33892,7 +33892,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=18110H0&rc2=DG0211A",
           "reference": "18110H0DG0211A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=18110H0DG0211A",
@@ -33961,7 +33961,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=18110H2&rc2=DG0211A",
           "reference": "18110H2DG0211A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=18110H2DG0211A",
@@ -34042,7 +34042,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1811030&rc2=DG0211A",
           "reference": "1811030DG0211A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1811030DG0211A",
@@ -34135,7 +34135,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1811070&rc2=DG0211A",
           "reference": "1811070DG0211A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1811070DG0211A",
@@ -34248,7 +34248,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1811082&rc2=DG0211A",
           "reference": "1811082DG0211A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1811082DG0211A",
@@ -34349,7 +34349,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1811083&rc2=DG0211A",
           "reference": "1811083DG0211A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1811083DG0211A",
@@ -34434,7 +34434,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1900405&rc2=DG0210A",
           "reference": "1900405DG0210A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1900405DG0210A",
@@ -34671,7 +34671,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1914804&rc2=DG0211A",
           "reference": "1914804DG0211A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 7,
           "numberOfDw": 6,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1914804DG0211A",
@@ -34848,7 +34848,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1998602&rc2=DG0119G",
           "reference": "1998602DG0119G",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1998602DG0119G",
@@ -34969,7 +34969,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1998604&rc2=DG0119G",
           "reference": "1998604DG0119G",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1998604DG0119G",
@@ -35114,7 +35114,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1998605&rc2=DG0119G",
           "reference": "1998605DG0119G",
-          "currentUse": "4_2_retail",
+          "currentUse": "Retail",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1998605DG0119G",
@@ -35195,7 +35195,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1998606&rc2=DG0119G",
           "reference": "1998606DG0119G",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1998606DG0119G",
@@ -35332,7 +35332,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1998607&rc2=DG0119G",
           "reference": "1998607DG0119G",
-          "currentUse": "4_1_office",
+          "currentUse": "Office",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1998607DG0119G",
@@ -35401,7 +35401,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1998608&rc2=DG0119G",
           "reference": "1998608DG0119G",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1998608DG0119G",
@@ -35462,7 +35462,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1999001&rc2=DG0119G",
           "reference": "1999001DG0119G",
-          "currentUse": "4_1_office",
+          "currentUse": "Office",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1999001DG0119G",
@@ -35563,7 +35563,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1999002&rc2=DG0119G",
           "reference": "1999002DG0119G",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1999002DG0119G",
@@ -35980,7 +35980,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1999005&rc2=DG0119G",
           "reference": "1999005DG0119G",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1999005DG0119G",
@@ -36057,7 +36057,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1999007&rc2=DG0119G",
           "reference": "1999007DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 5,
           "numberOfDw": 5,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1999007DG0119G",
@@ -36150,7 +36150,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1999008&rc2=DG0119G",
           "reference": "1999008DG0119G",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1999008DG0119G",
@@ -36207,7 +36207,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1999009&rc2=DG0119G",
           "reference": "1999009DG0119G",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1999009DG0119G",
@@ -36316,7 +36316,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1999010&rc2=DG0119G",
           "reference": "1999010DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1999010DG0119G",
@@ -36433,7 +36433,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1999012&rc2=DG0119G",
           "reference": "1999012DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 9,
           "numberOfDw": 7,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1999012DG0119G",
@@ -36634,7 +36634,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1999013&rc2=DG0119G",
           "reference": "1999013DG0119G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1999013DG0119G",
@@ -36747,7 +36747,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=1999014&rc2=DG0119G",
           "reference": "1999014DG0119G",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1999014DG0119G",
@@ -36808,7 +36808,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2000014&rc2=DG0220A",
           "reference": "2000014DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2000014DG0220A",
@@ -36893,7 +36893,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2000015&rc2=DG0220A",
           "reference": "2000015DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2000015DG0220A",
@@ -36966,7 +36966,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2000037&rc2=DG0220A",
           "reference": "2000037DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2000037DG0220A",
@@ -37087,7 +37087,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2000039&rc2=DG0220A",
           "reference": "2000039DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2000039DG0220A",
@@ -37140,7 +37140,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2000042&rc2=DG0220A",
           "reference": "2000042DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2000042DG0220A",
@@ -37221,7 +37221,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2000043&rc2=DG0220A",
           "reference": "2000043DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2000043DG0220A",
@@ -37294,7 +37294,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2000044&rc2=DG0220A",
           "reference": "2000044DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2000044DG0220A",
@@ -37367,7 +37367,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2000045&rc2=DG0220A",
           "reference": "2000045DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2000045DG0220A",
@@ -37480,7 +37480,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2000047&rc2=DG0220A",
           "reference": "2000047DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2000047DG0220A",
@@ -37561,7 +37561,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2000048&rc2=DG0220A",
           "reference": "2000048DG0220A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 5,
           "numberOfDw": 2,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2000048DG0220A",
@@ -37710,7 +37710,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2007008&rc2=DG0220A",
           "reference": "2007008DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2007008DG0220A",
@@ -37839,7 +37839,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2007009&rc2=DG0220A",
           "reference": "2007009DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2007009DG0220A",
@@ -37964,7 +37964,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2007010&rc2=DG0220A",
           "reference": "2007010DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2007010DG0220A",
@@ -38045,7 +38045,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2007025&rc2=DG0220A",
           "reference": "2007025DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2007025DG0220A",
@@ -38114,7 +38114,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2008011&rc2=DG0220A",
           "reference": "2008011DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 41,
           "numberOfDw": 20,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2008011DG0220A",
@@ -38407,7 +38407,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2008012&rc2=DG0220A",
           "reference": "2008012DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2008012DG0220A",
@@ -38524,7 +38524,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2008013&rc2=DG0220A",
           "reference": "2008013DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 4,
           "numberOfDw": 3,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2008013DG0220A",
@@ -38673,7 +38673,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2008014&rc2=DG0220A",
           "reference": "2008014DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2008014DG0220A",
@@ -38866,7 +38866,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2008028&rc2=DG0220A",
           "reference": "2008028DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2008028DG0220A",
@@ -38991,7 +38991,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2008029&rc2=DG0220A",
           "reference": "2008029DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2008029DG0220A",
@@ -39104,7 +39104,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2008030&rc2=DG0220A",
           "reference": "2008030DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2008030DG0220A",
@@ -39221,7 +39221,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2008031&rc2=DG0220A",
           "reference": "2008031DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2008031DG0220A",
@@ -39342,7 +39342,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2008032&rc2=DG0220A",
           "reference": "2008032DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 2,
           "numberOfDw": 2,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2008032DG0220A",
@@ -39467,7 +39467,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2008033&rc2=DG0220A",
           "reference": "2008033DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2008033DG0220A",
@@ -39540,7 +39540,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2015025&rc2=DG0221A",
           "reference": "2015025DG0221A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2015025DG0221A",
@@ -39601,7 +39601,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2097201&rc2=DG0129G",
           "reference": "2097201DG0129G",
-          "currentUse": "4_2_retail",
+          "currentUse": "Retail",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2097201DG0129G",
@@ -40262,7 +40262,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2099406&rc2=DG0129G",
           "reference": "2099406DG0129G",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2099406DG0129G",
@@ -40473,7 +40473,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2099407&rc2=DG0129G",
           "reference": "2099407DG0129G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2099407DG0129G",
@@ -40558,7 +40558,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2099412&rc2=DG0129G",
           "reference": "2099412DG0129G",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2099412DG0129G",
@@ -40655,7 +40655,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2099413&rc2=DG0129G",
           "reference": "2099413DG0129G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2099413DG0129G",
@@ -40732,7 +40732,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2099414&rc2=DG0129G",
           "reference": "2099414DG0129G",
-          "currentUse": "4_3_publicServices",
+          "currentUse": "PublicServices",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2099414DG0129G",
@@ -40813,7 +40813,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2104029&rc2=DG0220A",
           "reference": "2104029DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2104029DG0220A",
@@ -40946,7 +40946,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2110028&rc2=DG0221A",
           "reference": "2110028DG0221A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2110028DG0221A",
@@ -41011,7 +41011,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2199306&rc2=DG0129G",
           "reference": "2199306DG0129G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2199306DG0129G",
@@ -41080,7 +41080,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2199307&rc2=DG0129G",
           "reference": "2199307DG0129G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2199307DG0129G",
@@ -41205,7 +41205,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2199313&rc2=DG0129G",
           "reference": "2199313DG0129G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2199313DG0129G",
@@ -41342,7 +41342,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2199314&rc2=DG0129G",
           "reference": "2199314DG0129G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2199314DG0129G",
@@ -41411,7 +41411,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2199315&rc2=DG0129G",
           "reference": "2199315DG0129G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2199315DG0129G",
@@ -41504,7 +41504,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2199319&rc2=DG0129G",
           "reference": "2199319DG0129G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2199319DG0129G",
@@ -41625,7 +41625,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2199320&rc2=DG0129G",
           "reference": "2199320DG0129G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2199320DG0129G",
@@ -41754,7 +41754,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2199328&rc2=DG0129G",
           "reference": "2199328DG0129G",
-          "currentUse": "4_2_retail",
+          "currentUse": "Retail",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2199328DG0129G",
@@ -41891,7 +41891,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2199331&rc2=DG0129G",
           "reference": "2199331DG0129G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2199331DG0129G",
@@ -41956,7 +41956,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2199332&rc2=DG0129G",
           "reference": "2199332DG0129G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2199332DG0129G",
@@ -42045,7 +42045,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2199705&rc2=DG0129G",
           "reference": "2199705DG0129G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2199705DG0129G",
@@ -42194,7 +42194,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2200002&rc2=DG0220A",
           "reference": "2200002DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2200002DG0220A",
@@ -42279,7 +42279,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2200003&rc2=DG0220A",
           "reference": "2200003DG0220A",
-          "currentUse": "4_1_office",
+          "currentUse": "Office",
           "numberOfBu": 4,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2200003DG0220A",
@@ -42400,7 +42400,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2200007&rc2=DG0220A",
           "reference": "2200007DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2200007DG0220A",
@@ -42505,7 +42505,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2200008&rc2=DG0220A",
           "reference": "2200008DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2200008DG0220A",
@@ -42662,7 +42662,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2200017&rc2=DG0220A",
           "reference": "2200017DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2200017DG0220A",
@@ -42787,7 +42787,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2200018&rc2=DG0220A",
           "reference": "2200018DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2200018DG0220A",
@@ -42962,7 +42962,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2200402&rc2=DG0220A",
           "reference": "2200402DG0220A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2200402DG0220A",
@@ -43107,7 +43107,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2201201&rc2=DG0220A",
           "reference": "2201201DG0220A",
-          "currentUse": "4_3_publicServices",
+          "currentUse": "PublicServices",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2201201DG0220A",
@@ -43360,7 +43360,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2212023&rc2=DG0221A",
           "reference": "2212023DG0221A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2212023DG0221A",
@@ -43453,7 +43453,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2306003&rc2=DG0220A",
           "reference": "2306003DG0220A",
-          "currentUse": "4_3_publicServices",
+          "currentUse": "PublicServices",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2306003DG0220A",
@@ -43526,7 +43526,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2306004&rc2=DG0220A",
           "reference": "2306004DG0220A",
-          "currentUse": "4_3_publicServices",
+          "currentUse": "PublicServices",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2306004DG0220A",
@@ -43707,7 +43707,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2398402&rc2=DG0129G",
           "reference": "2398402DG0129G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2398402DG0129G",
@@ -43902,7 +43902,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2398403&rc2=DG0129G",
           "reference": "2398403DG0129G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2398403DG0129G",
@@ -44077,7 +44077,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2398404&rc2=DG0129G",
           "reference": "2398404DG0129G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2398404DG0129G",
@@ -44242,7 +44242,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2399106&rc2=DG0129G",
           "reference": "2399106DG0129G",
-          "currentUse": "4_2_retail",
+          "currentUse": "Retail",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2399106DG0129G",
@@ -44359,7 +44359,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2404001&rc2=DG0220A",
           "reference": "2404001DG0220A",
-          "currentUse": "4_1_office",
+          "currentUse": "Office",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2404001DG0220A",
@@ -44584,7 +44584,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2404002&rc2=DG0220A",
           "reference": "2404002DG0220A",
-          "currentUse": "4_1_office",
+          "currentUse": "Office",
           "numberOfBu": 2,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2404002DG0220A",
@@ -44665,7 +44665,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2404003&rc2=DG0220A",
           "reference": "2404003DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2404003DG0220A",
@@ -44758,7 +44758,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2498001&rc2=DG0129G",
           "reference": "2498001DG0129G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 9,
           "numberOfDw": 7,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2498001DG0129G",
@@ -45081,7 +45081,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2504501&rc2=DG0220A",
           "reference": "2504501DG0220A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2504501DG0220A",
@@ -45290,7 +45290,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2504509&rc2=DG0220A",
           "reference": "2504509DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2504509DG0220A",
@@ -45379,7 +45379,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2504510&rc2=DG0220A",
           "reference": "2504510DG0220A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2504510DG0220A",
@@ -45448,7 +45448,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2504511&rc2=DG0220A",
           "reference": "2504511DG0220A",
-          "currentUse": "4_2_retail",
+          "currentUse": "Retail",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2504511DG0220A",
@@ -45517,7 +45517,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2504512&rc2=DG0220A",
           "reference": "2504512DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2504512DG0220A",
@@ -45610,7 +45610,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2504513&rc2=DG0220A",
           "reference": "2504513DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 3,
           "numberOfDw": 3,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2504513DG0220A",
@@ -45775,7 +45775,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=25050B6&rc2=DG0220A",
           "reference": "25050B6DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=25050B6DG0220A",
@@ -45836,7 +45836,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=25050B7&rc2=DG0220A",
           "reference": "25050B7DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=25050B7DG0220A",
@@ -45889,7 +45889,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2505060&rc2=DG0220A",
           "reference": "2505060DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2505060DG0220A",
@@ -46006,7 +46006,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2505061&rc2=DG0220A",
           "reference": "2505061DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2505061DG0220A",
@@ -46107,7 +46107,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2506710&rc2=DG0220A",
           "reference": "2506710DG0220A",
-          "currentUse": "4_3_publicServices",
+          "currentUse": "PublicServices",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2506710DG0220A",
@@ -46232,7 +46232,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2514024&rc2=DG0221A",
           "reference": "2514024DG0221A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2514024DG0221A",
@@ -46361,7 +46361,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2514025&rc2=DG0221A",
           "reference": "2514025DG0221A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2514025DG0221A",
@@ -46458,7 +46458,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2514026&rc2=DG0221A",
           "reference": "2514026DG0221A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2514026DG0221A",
@@ -46555,7 +46555,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2600014&rc2=DG0220A",
           "reference": "2600014DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 5,
           "numberOfDw": 3,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2600014DG0220A",
@@ -46680,7 +46680,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2600015&rc2=DG0220A",
           "reference": "2600015DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2600015DG0220A",
@@ -46793,7 +46793,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2600016&rc2=DG0220A",
           "reference": "2600016DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 7,
           "numberOfDw": 4,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2600016DG0220A",
@@ -46938,7 +46938,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2600017&rc2=DG0220A",
           "reference": "2600017DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2600017DG0220A",
@@ -47047,7 +47047,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2601201&rc2=DG0220A",
           "reference": "2601201DG0220A",
-          "currentUse": "4_3_publicServices",
+          "currentUse": "PublicServices",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2601201DG0220A",
@@ -47172,7 +47172,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2601817&rc2=DG0220A",
           "reference": "2601817DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2601817DG0220A",
@@ -47265,7 +47265,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2603020&rc2=DG0220A",
           "reference": "2603020DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2603020DG0220A",
@@ -47468,7 +47468,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2605418&rc2=DG0220A",
           "reference": "2605418DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2605418DG0220A",
@@ -47613,7 +47613,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2608001&rc2=DG0220A",
           "reference": "2608001DG0220A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2608001DG0220A",
@@ -47746,7 +47746,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2608002&rc2=DG0220A",
           "reference": "2608002DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2608002DG0220A",
@@ -47847,7 +47847,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2608003&rc2=DG0220A",
           "reference": "2608003DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2608003DG0220A",
@@ -47968,7 +47968,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2608004&rc2=DG0220A",
           "reference": "2608004DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2608004DG0220A",
@@ -48093,7 +48093,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2608005&rc2=DG0220A",
           "reference": "2608005DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2608005DG0220A",
@@ -48260,7 +48260,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2608006&rc2=DG0220A",
           "reference": "2608006DG0220A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2608006DG0220A",
@@ -48329,7 +48329,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2608007&rc2=DG0220A",
           "reference": "2608007DG0220A",
-          "currentUse": "4_2_retail",
+          "currentUse": "Retail",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2608007DG0220A",
@@ -48498,7 +48498,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2705818&rc2=DG0220A",
           "reference": "2705818DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2705818DG0220A",
@@ -48583,7 +48583,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2705819&rc2=DG0220A",
           "reference": "2705819DG0220A",
-          "currentUse": "4_2_retail",
+          "currentUse": "Retail",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2705819DG0220A",
@@ -48660,7 +48660,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2705820&rc2=DG0220A",
           "reference": "2705820DG0220A",
-          "currentUse": "4_2_retail",
+          "currentUse": "Retail",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2705820DG0220A",
@@ -48729,7 +48729,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2705822&rc2=DG0220A",
           "reference": "2705822DG0220A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2705822DG0220A",
@@ -48850,7 +48850,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2706005&rc2=DG0220A",
           "reference": "2706005DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2706005DG0220A",
@@ -48923,7 +48923,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2706006&rc2=DG0220A",
           "reference": "2706006DG0220A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2706006DG0220A",
@@ -49020,7 +49020,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2706008&rc2=DG0220A",
           "reference": "2706008DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2706008DG0220A",
@@ -49105,7 +49105,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2706009&rc2=DG0220A",
           "reference": "2706009DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2706009DG0220A",
@@ -49210,7 +49210,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2799302&rc2=DG0129G",
           "reference": "2799302DG0129G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2799302DG0129G",
@@ -49267,7 +49267,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2799308&rc2=DG0129G",
           "reference": "2799308DG0129G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 3,
           "numberOfDw": 2,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2799308DG0129G",
@@ -49364,7 +49364,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2799309&rc2=DG0129G",
           "reference": "2799309DG0129G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2799309DG0129G",
@@ -49461,7 +49461,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2799314&rc2=DG0129G",
           "reference": "2799314DG0129G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2799314DG0129G",
@@ -49558,7 +49558,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2799315&rc2=DG0129G",
           "reference": "2799315DG0129G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2799315DG0129G",
@@ -49663,7 +49663,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2799317&rc2=DG0129G",
           "reference": "2799317DG0129G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2799317DG0129G",
@@ -49788,7 +49788,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2799318&rc2=DG0129G",
           "reference": "2799318DG0129G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2799318DG0129G",
@@ -49913,7 +49913,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2799319&rc2=DG0129G",
           "reference": "2799319DG0129G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 4,
           "numberOfDw": 3,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2799319DG0129G",
@@ -50038,7 +50038,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2799320&rc2=DG0129G",
           "reference": "2799320DG0129G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2799320DG0129G",
@@ -50215,7 +50215,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2799321&rc2=DG0129G",
           "reference": "2799321DG0129G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2799321DG0129G",
@@ -50364,7 +50364,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2799323&rc2=DG0129G",
           "reference": "2799323DG0129G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2799323DG0129G",
@@ -50485,7 +50485,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2799324&rc2=DG0129G",
           "reference": "2799324DG0129G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2799324DG0129G",
@@ -50550,7 +50550,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2799325&rc2=DG0129G",
           "reference": "2799325DG0129G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2799325DG0129G",
@@ -50639,7 +50639,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2807001&rc2=DG0220A",
           "reference": "2807001DG0220A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2807001DG0220A",
@@ -50744,7 +50744,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2807002&rc2=DG0220A",
           "reference": "2807002DG0220A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2807002DG0220A",
@@ -50829,7 +50829,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2807003&rc2=DG0220A",
           "reference": "2807003DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2807003DG0220A",
@@ -50918,7 +50918,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2807004&rc2=DG0220A",
           "reference": "2807004DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2807004DG0220A",
@@ -51031,7 +51031,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2807010&rc2=DG0220A",
           "reference": "2807010DG0220A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2807010DG0220A",
@@ -51288,7 +51288,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2807031&rc2=DG0220A",
           "reference": "2807031DG0220A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2807031DG0220A",
@@ -51527,7 +51527,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2807032&rc2=DG0220A",
           "reference": "2807032DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2807032DG0220A",
@@ -51784,7 +51784,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2807033&rc2=DG0220A",
           "reference": "2807033DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2807033DG0220A",
@@ -51893,7 +51893,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2809808&rc2=DG0220A",
           "reference": "2809808DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 4,
           "numberOfDw": 3,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2809808DG0220A",
@@ -52154,7 +52154,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2809809&rc2=DG0220A",
           "reference": "2809809DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 2,
           "numberOfDw": 2,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2809809DG0220A",
@@ -52267,7 +52267,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2809810&rc2=DG0220A",
           "reference": "2809810DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2809810DG0220A",
@@ -52356,7 +52356,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2809811&rc2=DG0220A",
           "reference": "2809811DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2809811DG0220A",
@@ -52477,7 +52477,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2816401&rc2=DG0221A",
           "reference": "2816401DG0221A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2816401DG0221A",
@@ -52530,7 +52530,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2816402&rc2=DG0221A",
           "reference": "2816402DG0221A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 3,
           "numberOfDw": 2,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2816402DG0221A",
@@ -52679,7 +52679,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2816403&rc2=DG0221A",
           "reference": "2816403DG0221A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2816403DG0221A",
@@ -52980,7 +52980,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2898029&rc2=DG0129G",
           "reference": "2898029DG0129G",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2898029DG0129G",
@@ -53033,7 +53033,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2898030&rc2=DG0129G",
           "reference": "2898030DG0129G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2898030DG0129G",
@@ -53122,7 +53122,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2898031&rc2=DG0129G",
           "reference": "2898031DG0129G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 3,
           "numberOfDw": 3,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2898031DG0129G",
@@ -53203,7 +53203,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2898032&rc2=DG0129G",
           "reference": "2898032DG0129G",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2898032DG0129G",
@@ -53260,7 +53260,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2898035&rc2=DG0129G",
           "reference": "2898035DG0129G",
-          "currentUse": "4_1_office",
+          "currentUse": "Office",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2898035DG0129G",
@@ -53357,7 +53357,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2899001&rc2=DG0129G",
           "reference": "2899001DG0129G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2899001DG0129G",
@@ -53438,7 +53438,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2899002&rc2=DG0129G",
           "reference": "2899002DG0129G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2899002DG0129G",
@@ -53563,7 +53563,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2899003&rc2=DG0129G",
           "reference": "2899003DG0129G",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2899003DG0129G",
@@ -53632,7 +53632,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2899004&rc2=DG0129G",
           "reference": "2899004DG0129G",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2899004DG0129G",
@@ -53721,7 +53721,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2899006&rc2=DG0129G",
           "reference": "2899006DG0129G",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2899006DG0129G",
@@ -53830,7 +53830,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2899008&rc2=DG0129G",
           "reference": "2899008DG0129G",
-          "currentUse": "4_3_publicServices",
+          "currentUse": "PublicServices",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2899008DG0129G",
@@ -53959,7 +53959,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2899010&rc2=DG0129G",
           "reference": "2899010DG0129G",
-          "currentUse": "4_3_publicServices",
+          "currentUse": "PublicServices",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2899010DG0129G",
@@ -54332,7 +54332,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2899026&rc2=DG0129G",
           "reference": "2899026DG0129G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2899026DG0129G",
@@ -54437,7 +54437,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2899031&rc2=DG0129G",
           "reference": "2899031DG0129G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2899031DG0129G",
@@ -54534,7 +54534,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2899032&rc2=DG0129G",
           "reference": "2899032DG0129G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2899032DG0129G",
@@ -54671,7 +54671,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2899057&rc2=DG0129G",
           "reference": "2899057DG0129G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2899057DG0129G",
@@ -54744,7 +54744,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2899058&rc2=DG0129G",
           "reference": "2899058DG0129G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2899058DG0129G",
@@ -54813,7 +54813,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2899059&rc2=DG0129G",
           "reference": "2899059DG0129G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 5,
           "numberOfDw": 4,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2899059DG0129G",
@@ -54890,7 +54890,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2899064&rc2=DG0129G",
           "reference": "2899064DG0129G",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2899064DG0129G",
@@ -54951,7 +54951,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2903018&rc2=DG0220A",
           "reference": "2903018DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 6,
           "numberOfDw": 5,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2903018DG0220A",
@@ -55052,7 +55052,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2903019&rc2=DG0220A",
           "reference": "2903019DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2903019DG0220A",
@@ -55133,7 +55133,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2903020&rc2=DG0220A",
           "reference": "2903020DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2903020DG0220A",
@@ -55210,7 +55210,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2903021&rc2=DG0220A",
           "reference": "2903021DG0220A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2903021DG0220A",
@@ -55319,7 +55319,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2903022&rc2=DG0220A",
           "reference": "2903022DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 5,
           "numberOfDw": 4,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2903022DG0220A",
@@ -55428,7 +55428,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2903023&rc2=DG0220A",
           "reference": "2903023DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2903023DG0220A",
@@ -55729,7 +55729,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2906504&rc2=DG0220A",
           "reference": "2906504DG0220A",
-          "currentUse": "4_2_retail",
+          "currentUse": "Retail",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2906504DG0220A",
@@ -55806,7 +55806,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2906505&rc2=DG0220A",
           "reference": "2906505DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2906505DG0220A",
@@ -55961,7 +55961,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2906506&rc2=DG0220A",
           "reference": "2906506DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2906506DG0220A",
@@ -56078,7 +56078,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2906507&rc2=DG0220A",
           "reference": "2906507DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2906507DG0220A",
@@ -56237,7 +56237,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2906514&rc2=DG0220A",
           "reference": "2906514DG0220A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2906514DG0220A",
@@ -56338,7 +56338,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=2911012&rc2=DG0221A",
           "reference": "2911012DG0221A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2911012DG0221A",
@@ -56491,7 +56491,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3000026&rc2=DG0230A",
           "reference": "3000026DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3000026DG0230A",
@@ -56640,7 +56640,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3000081&rc2=DG0230A",
           "reference": "3000081DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 4,
           "numberOfDw": 2,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3000081DG0230A",
@@ -56721,7 +56721,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3001005&rc2=DG0230A",
           "reference": "3001005DG0230A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3001005DG0230A",
@@ -56774,7 +56774,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3007001&rc2=DG0230A",
           "reference": "3007001DG0230A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 2,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3007001DG0230A",
@@ -56879,7 +56879,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3009001&rc2=DG0230A",
           "reference": "3009001DG0230A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3009001DG0230A",
@@ -57100,7 +57100,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3009002&rc2=DG0230A",
           "reference": "3009002DG0230A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3009002DG0230A",
@@ -57301,7 +57301,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3009039&rc2=DG0230A",
           "reference": "3009039DG0230A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3009039DG0230A",
@@ -57410,7 +57410,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3010013&rc2=DG0231A",
           "reference": "3010013DG0231A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3010013DG0231A",
@@ -57523,7 +57523,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3010014&rc2=DG0231A",
           "reference": "3010014DG0231A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3010014DG0231A",
@@ -57576,7 +57576,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3010015&rc2=DG0231A",
           "reference": "3010015DG0231A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3010015DG0231A",
@@ -57629,7 +57629,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3010016&rc2=DG0231A",
           "reference": "3010016DG0231A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3010016DG0231A",
@@ -57714,7 +57714,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3010017&rc2=DG0231A",
           "reference": "3010017DG0231A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3010017DG0231A",
@@ -57775,7 +57775,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3010018&rc2=DG0231A",
           "reference": "3010018DG0231A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3010018DG0231A",
@@ -57884,7 +57884,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3010019&rc2=DG0231A",
           "reference": "3010019DG0231A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3010019DG0231A",
@@ -57953,7 +57953,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3010020&rc2=DG0231A",
           "reference": "3010020DG0231A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3010020DG0231A",
@@ -58034,7 +58034,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3010021&rc2=DG0231A",
           "reference": "3010021DG0231A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3010021DG0231A",
@@ -58147,7 +58147,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3010038&rc2=DG0231A",
           "reference": "3010038DG0231A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 3,
           "numberOfDw": 2,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3010038DG0231A",
@@ -58284,7 +58284,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3010065&rc2=DG0231A",
           "reference": "3010065DG0231A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3010065DG0231A",
@@ -58365,7 +58365,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3010066&rc2=DG0231A",
           "reference": "3010066DG0231A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3010066DG0231A",
@@ -58434,7 +58434,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3014804&rc2=DG0231A",
           "reference": "3014804DG0231A",
-          "currentUse": "4_2_retail",
+          "currentUse": "Retail",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3014804DG0231A",
@@ -58571,7 +58571,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3014805&rc2=DG0231A",
           "reference": "3014805DG0231A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3014805DG0231A",
@@ -58648,7 +58648,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3017001&rc2=DG0231A",
           "reference": "3017001DG0231A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 10,
           "numberOfDw": 10,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3017001DG0231A",
@@ -58741,7 +58741,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3017002&rc2=DG0231A",
           "reference": "3017002DG0231A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 10,
           "numberOfDw": 10,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3017002DG0231A",
@@ -58822,7 +58822,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3017003&rc2=DG0231A",
           "reference": "3017003DG0231A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 10,
           "numberOfDw": 10,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3017003DG0231A",
@@ -58903,7 +58903,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3017004&rc2=DG0231A",
           "reference": "3017004DG0231A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 10,
           "numberOfDw": 10,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3017004DG0231A",
@@ -59004,7 +59004,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3017005&rc2=DG0231A",
           "reference": "3017005DG0231A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 10,
           "numberOfDw": 10,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3017005DG0231A",
@@ -59089,7 +59089,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3017006&rc2=DG0231A",
           "reference": "3017006DG0231A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 10,
           "numberOfDw": 10,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3017006DG0231A",
@@ -59178,7 +59178,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3017007&rc2=DG0231A",
           "reference": "3017007DG0231A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 10,
           "numberOfDw": 10,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3017007DG0231A",
@@ -59275,7 +59275,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3017008&rc2=DG0231A",
           "reference": "3017008DG0231A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 10,
           "numberOfDw": 10,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3017008DG0231A",
@@ -59380,7 +59380,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3017009&rc2=DG0231A",
           "reference": "3017009DG0231A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 10,
           "numberOfDw": 10,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3017009DG0231A",
@@ -59489,7 +59489,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3017010&rc2=DG0231A",
           "reference": "3017010DG0231A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 10,
           "numberOfDw": 10,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3017010DG0231A",
@@ -59582,7 +59582,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3017011&rc2=DG0231A",
           "reference": "3017011DG0231A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 10,
           "numberOfDw": 10,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3017011DG0231A",
@@ -59675,7 +59675,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3098060&rc2=DG0139G",
           "reference": "3098060DG0139G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3098060DG0139G",
@@ -59840,7 +59840,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3098070&rc2=DG0139G",
           "reference": "3098070DG0139G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3098070DG0139G",
@@ -59953,7 +59953,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3098081&rc2=DG0139G",
           "reference": "3098081DG0139G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3098081DG0139G",
@@ -60058,7 +60058,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3098082&rc2=DG0139G",
           "reference": "3098082DG0139G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3098082DG0139G",
@@ -60147,7 +60147,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3098083&rc2=DG0139G",
           "reference": "3098083DG0139G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3098083DG0139G",
@@ -60280,7 +60280,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3098085&rc2=DG0139G",
           "reference": "3098085DG0139G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3098085DG0139G",
@@ -60357,7 +60357,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3098086&rc2=DG0139G",
           "reference": "3098086DG0139G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 5,
           "numberOfDw": 4,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3098086DG0139G",
@@ -60470,7 +60470,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3106003&rc2=DG0230A",
           "reference": "3106003DG0230A",
-          "currentUse": "4_2_retail",
+          "currentUse": "Retail",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3106003DG0230A",
@@ -60715,7 +60715,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3106004&rc2=DG0230A",
           "reference": "3106004DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3106004DG0230A",
@@ -60808,7 +60808,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3106005&rc2=DG0230A",
           "reference": "3106005DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3106005DG0230A",
@@ -60917,7 +60917,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3106006&rc2=DG0230A",
           "reference": "3106006DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 4,
           "numberOfDw": 3,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3106006DG0230A",
@@ -61022,7 +61022,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3106007&rc2=DG0230A",
           "reference": "3106007DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3106007DG0230A",
@@ -61103,7 +61103,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3106008&rc2=DG0230A",
           "reference": "3106008DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3106008DG0230A",
@@ -61228,7 +61228,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3106009&rc2=DG0230A",
           "reference": "3106009DG0230A",
-          "currentUse": "4_2_retail",
+          "currentUse": "Retail",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3106009DG0230A",
@@ -61293,7 +61293,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3106014&rc2=DG0230A",
           "reference": "3106014DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3106014DG0230A",
@@ -61362,7 +61362,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3106015&rc2=DG0230A",
           "reference": "3106015DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 4,
           "numberOfDw": 2,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3106015DG0230A",
@@ -61455,7 +61455,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3106021&rc2=DG0230A",
           "reference": "3106021DG0230A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3106021DG0230A",
@@ -61516,7 +61516,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3202026&rc2=DG0230A",
           "reference": "3202026DG0230A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3202026DG0230A",
@@ -61657,7 +61657,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3202028&rc2=DG0230A",
           "reference": "3202028DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3202028DG0230A",
@@ -61738,7 +61738,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3202029&rc2=DG0230A",
           "reference": "3202029DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 4,
           "numberOfDw": 3,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3202029DG0230A",
@@ -61827,7 +61827,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3202030&rc2=DG0230A",
           "reference": "3202030DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3202030DG0230A",
@@ -61948,7 +61948,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3202031&rc2=DG0230A",
           "reference": "3202031DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 6,
           "numberOfDw": 5,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3202031DG0230A",
@@ -62061,7 +62061,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3202032&rc2=DG0230A",
           "reference": "3202032DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3202032DG0230A",
@@ -62142,7 +62142,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3214001&rc2=DG0231A",
           "reference": "3214001DG0231A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3214001DG0231A",
@@ -62243,7 +62243,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3214002&rc2=DG0231A",
           "reference": "3214002DG0231A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3214002DG0231A",
@@ -62328,7 +62328,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3214003&rc2=DG0231A",
           "reference": "3214003DG0231A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3214003DG0231A",
@@ -62421,7 +62421,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3214004&rc2=DG0231A",
           "reference": "3214004DG0231A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3214004DG0231A",
@@ -62510,7 +62510,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3214005&rc2=DG0231A",
           "reference": "3214005DG0231A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3214005DG0231A",
@@ -62591,7 +62591,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3214006&rc2=DG0231A",
           "reference": "3214006DG0231A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3214006DG0231A",
@@ -62664,7 +62664,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3214007&rc2=DG0231A",
           "reference": "3214007DG0231A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3214007DG0231A",
@@ -62757,7 +62757,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3214008&rc2=DG0231A",
           "reference": "3214008DG0231A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3214008DG0231A",
@@ -62862,7 +62862,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3214009&rc2=DG0231A",
           "reference": "3214009DG0231A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3214009DG0231A",
@@ -62939,7 +62939,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3214010&rc2=DG0231A",
           "reference": "3214010DG0231A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3214010DG0231A",
@@ -63112,7 +63112,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3214011&rc2=DG0231A",
           "reference": "3214011DG0231A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3214011DG0231A",
@@ -63241,7 +63241,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3214012&rc2=DG0231A",
           "reference": "3214012DG0231A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3214012DG0231A",
@@ -63334,7 +63334,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3214014&rc2=DG0231A",
           "reference": "3214014DG0231A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3214014DG0231A",
@@ -63387,7 +63387,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3214016&rc2=DG0231A",
           "reference": "3214016DG0231A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3214016DG0231A",
@@ -63492,7 +63492,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3214040&rc2=DG0231A",
           "reference": "3214040DG0231A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3214040DG0231A",
@@ -63619,7 +63619,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3214041&rc2=DG0231A",
           "reference": "3214041DG0231A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3214041DG0231A",
@@ -63708,7 +63708,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3214042&rc2=DG0231A",
           "reference": "3214042DG0231A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3214042DG0231A",
@@ -63773,7 +63773,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3307001&rc2=DG0230A",
           "reference": "3307001DG0230A",
-          "currentUse": "4_2_retail",
+          "currentUse": "Retail",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3307001DG0230A",
@@ -63890,7 +63890,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3307002&rc2=DG0230A",
           "reference": "3307002DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3307002DG0230A",
@@ -63967,7 +63967,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3307003&rc2=DG0230A",
           "reference": "3307003DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3307003DG0230A",
@@ -64076,7 +64076,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3307004&rc2=DG0230A",
           "reference": "3307004DG0230A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3307004DG0230A",
@@ -64189,7 +64189,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3307006&rc2=DG0230A",
           "reference": "3307006DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3307006DG0230A",
@@ -64286,7 +64286,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3307007&rc2=DG0230A",
           "reference": "3307007DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3307007DG0230A",
@@ -64375,7 +64375,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3307008&rc2=DG0230A",
           "reference": "3307008DG0230A",
-          "currentUse": "4_2_retail",
+          "currentUse": "Retail",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3307008DG0230A",
@@ -64492,7 +64492,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3307009&rc2=DG0230A",
           "reference": "3307009DG0230A",
-          "currentUse": "4_2_retail",
+          "currentUse": "Retail",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3307009DG0230A",
@@ -64585,7 +64585,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3307010&rc2=DG0230A",
           "reference": "3307010DG0230A",
-          "currentUse": "4_2_retail",
+          "currentUse": "Retail",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3307010DG0230A",
@@ -64702,7 +64702,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3307011&rc2=DG0230A",
           "reference": "3307011DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3307011DG0230A",
@@ -64827,7 +64827,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3307012&rc2=DG0230A",
           "reference": "3307012DG0230A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3307012DG0230A",
@@ -64904,7 +64904,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3308001&rc2=DG0230A",
           "reference": "3308001DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3308001DG0230A",
@@ -65033,7 +65033,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3308004&rc2=DG0230A",
           "reference": "3308004DG0230A",
-          "currentUse": "4_2_retail",
+          "currentUse": "Retail",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3308004DG0230A",
@@ -65162,7 +65162,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3308005&rc2=DG0230A",
           "reference": "3308005DG0230A",
-          "currentUse": "4_2_retail",
+          "currentUse": "Retail",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3308005DG0230A",
@@ -65239,7 +65239,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3308006&rc2=DG0230A",
           "reference": "3308006DG0230A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3308006DG0230A",
@@ -65324,7 +65324,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3308008&rc2=DG0230A",
           "reference": "3308008DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3308008DG0230A",
@@ -65413,7 +65413,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3308009&rc2=DG0230A",
           "reference": "3308009DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 5,
           "numberOfDw": 4,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3308009DG0230A",
@@ -65498,7 +65498,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3308023&rc2=DG0230A",
           "reference": "3308023DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 8,
           "numberOfDw": 6,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3308023DG0230A",
@@ -65729,7 +65729,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3308024&rc2=DG0230A",
           "reference": "3308024DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3308024DG0230A",
@@ -65786,7 +65786,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3308035&rc2=DG0230A",
           "reference": "3308035DG0230A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3308035DG0230A",
@@ -65903,7 +65903,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3308036&rc2=DG0230A",
           "reference": "3308036DG0230A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3308036DG0230A",
@@ -66000,7 +66000,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3308037&rc2=DG0230A",
           "reference": "3308037DG0230A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3308037DG0230A",
@@ -66077,7 +66077,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3309001&rc2=DG0230A",
           "reference": "3309001DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3309001DG0230A",
@@ -66158,7 +66158,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3309002&rc2=DG0230A",
           "reference": "3309002DG0230A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3309002DG0230A",
@@ -66239,7 +66239,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3309003&rc2=DG0230A",
           "reference": "3309003DG0230A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3309003DG0230A",
@@ -66340,7 +66340,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3309007&rc2=DG0230A",
           "reference": "3309007DG0230A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3309007DG0230A",
@@ -66473,7 +66473,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3313007&rc2=DG0231A",
           "reference": "3313007DG0231A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3313007DG0231A",
@@ -66630,7 +66630,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3313017&rc2=DG0231A",
           "reference": "3313017DG0231A",
-          "currentUse": "4_3_publicServices",
+          "currentUse": "PublicServices",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3313017DG0231A",
@@ -66767,7 +66767,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3313031&rc2=DG0231A",
           "reference": "3313031DG0231A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3313031DG0231A",
@@ -66836,7 +66836,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3313034&rc2=DG0231A",
           "reference": "3313034DG0231A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3313034DG0231A",
@@ -66953,7 +66953,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3313035&rc2=DG0231A",
           "reference": "3313035DG0231A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3313035DG0231A",
@@ -67650,7 +67650,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3313038&rc2=DG0231A",
           "reference": "3313038DG0231A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3313038DG0231A",
@@ -67727,7 +67727,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3397025&rc2=DG0139G",
           "reference": "3397025DG0139G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3397025DG0139G",
@@ -67856,7 +67856,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3403028&rc2=DG0230A",
           "reference": "3403028DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3403028DG0230A",
@@ -67945,7 +67945,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3408003&rc2=DG0230A",
           "reference": "3408003DG0230A",
-          "currentUse": "4_2_retail",
+          "currentUse": "Retail",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3408003DG0230A",
@@ -68126,7 +68126,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3408004&rc2=DG0230A",
           "reference": "3408004DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 4,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3408004DG0230A",
@@ -68275,7 +68275,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3408005&rc2=DG0230A",
           "reference": "3408005DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3408005DG0230A",
@@ -68356,7 +68356,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3408006&rc2=DG0230A",
           "reference": "3408006DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3408006DG0230A",
@@ -68417,7 +68417,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3408007&rc2=DG0230A",
           "reference": "3408007DG0230A",
-          "currentUse": "4_2_retail",
+          "currentUse": "Retail",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3408007DG0230A",
@@ -68486,7 +68486,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3408009&rc2=DG0230A",
           "reference": "3408009DG0230A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3408009DG0230A",
@@ -68727,7 +68727,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3497004&rc2=DG0139G",
           "reference": "3497004DG0139G",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3497004DG0139G",
@@ -68960,7 +68960,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3501015&rc2=DG0230A",
           "reference": "3501015DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3501015DG0230A",
@@ -69085,7 +69085,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3501016&rc2=DG0230A",
           "reference": "3501016DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3501016DG0230A",
@@ -69214,7 +69214,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3501018&rc2=DG0230A",
           "reference": "3501018DG0230A",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3501018DG0230A",
@@ -69283,7 +69283,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3501034&rc2=DG0230A",
           "reference": "3501034DG0230A",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3501034DG0230A",
@@ -69376,7 +69376,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3501035&rc2=DG0230A",
           "reference": "3501035DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3501035DG0230A",
@@ -69489,7 +69489,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3501036&rc2=DG0230A",
           "reference": "3501036DG0230A",
-          "currentUse": "4_1_office",
+          "currentUse": "Office",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3501036DG0230A",
@@ -69586,7 +69586,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3501037&rc2=DG0230A",
           "reference": "3501037DG0230A",
-          "currentUse": "4_3_publicServices",
+          "currentUse": "PublicServices",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3501037DG0230A",
@@ -69755,7 +69755,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3510503&rc2=DG0231A",
           "reference": "3510503DG0231A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3510503DG0231A",
@@ -69840,7 +69840,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3510504&rc2=DG0231A",
           "reference": "3510504DG0231A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3510504DG0231A",
@@ -69925,7 +69925,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3510507&rc2=DG0231A",
           "reference": "3510507DG0231A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3510507DG0231A",
@@ -69974,7 +69974,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3510508&rc2=DG0231A",
           "reference": "3510508DG0231A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3510508DG0231A",
@@ -70067,7 +70067,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3510509&rc2=DG0231A",
           "reference": "3510509DG0231A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3510509DG0231A",
@@ -70176,7 +70176,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3510510&rc2=DG0231A",
           "reference": "3510510DG0231A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3510510DG0231A",
@@ -70297,7 +70297,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3510511&rc2=DG0231A",
           "reference": "3510511DG0231A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3510511DG0231A",
@@ -70426,7 +70426,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3510512&rc2=DG0231A",
           "reference": "3510512DG0231A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3510512DG0231A",
@@ -70531,7 +70531,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3510515&rc2=DG0231A",
           "reference": "3510515DG0231A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 3,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3510515DG0231A",
@@ -70620,7 +70620,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3510516&rc2=DG0231A",
           "reference": "3510516DG0231A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3510516DG0231A",
@@ -70673,7 +70673,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3570010&rc2=DG0137E",
           "reference": "3570010DG0137E",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3570010DG0137E",
@@ -71214,7 +71214,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3589003&rc2=DG0138G",
           "reference": "3589003DG0138G",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3589003DG0138G",
@@ -71307,7 +71307,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3589004&rc2=DG0138G",
           "reference": "3589004DG0138G",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3589004DG0138G",
@@ -71376,7 +71376,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3589005&rc2=DG0138G",
           "reference": "3589005DG0138G",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 2,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3589005DG0138G",
@@ -71437,7 +71437,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3589006&rc2=DG0138G",
           "reference": "3589006DG0138G",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3589006DG0138G",
@@ -71502,7 +71502,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3589007&rc2=DG0138G",
           "reference": "3589007DG0138G",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3589007DG0138G",
@@ -71579,7 +71579,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3589015&rc2=DG0138G",
           "reference": "3589015DG0138G",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3589015DG0138G",
@@ -71708,7 +71708,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3589017&rc2=DG0138G",
           "reference": "3589017DG0138G",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3589017DG0138G",
@@ -71769,7 +71769,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3597001&rc2=DG0139G",
           "reference": "3597001DG0139G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 8,
           "numberOfDw": 8,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3597001DG0139G",
@@ -71858,7 +71858,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3597002&rc2=DG0139G",
           "reference": "3597002DG0139G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 8,
           "numberOfDw": 8,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3597002DG0139G",
@@ -71955,7 +71955,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3597003&rc2=DG0139G",
           "reference": "3597003DG0139G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 8,
           "numberOfDw": 8,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3597003DG0139G",
@@ -72116,7 +72116,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3597004&rc2=DG0139G",
           "reference": "3597004DG0139G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 16,
           "numberOfDw": 16,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3597004DG0139G",
@@ -72289,7 +72289,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3597005&rc2=DG0139G",
           "reference": "3597005DG0139G",
-          "currentUse": "4_3_publicServices",
+          "currentUse": "PublicServices",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3597005DG0139G",
@@ -72366,7 +72366,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3597006&rc2=DG0139G",
           "reference": "3597006DG0139G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 8,
           "numberOfDw": 8,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3597006DG0139G",
@@ -72459,7 +72459,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3597007&rc2=DG0139G",
           "reference": "3597007DG0139G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 8,
           "numberOfDw": 8,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3597007DG0139G",
@@ -72552,7 +72552,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3597008&rc2=DG0139G",
           "reference": "3597008DG0139G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 8,
           "numberOfDw": 8,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3597008DG0139G",
@@ -72641,7 +72641,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3597009&rc2=DG0139G",
           "reference": "3597009DG0139G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 32,
           "numberOfDw": 24,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3597009DG0139G",
@@ -72862,7 +72862,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3597013&rc2=DG0139G",
           "reference": "3597013DG0139G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 48,
           "numberOfDw": 48,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3597013DG0139G",
@@ -73139,7 +73139,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3599619&rc2=DG0139G",
           "reference": "3599619DG0139G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3599619DG0139G",
@@ -73284,7 +73284,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3608005&rc2=DG0230A",
           "reference": "3608005DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3608005DG0230A",
@@ -73361,7 +73361,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3608029&rc2=DG0230A",
           "reference": "3608029DG0230A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3608029DG0230A",
@@ -73558,7 +73558,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3608032&rc2=DG0230A",
           "reference": "3608032DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3608032DG0230A",
@@ -73671,7 +73671,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3608037&rc2=DG0230A",
           "reference": "3608037DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3608037DG0230A",
@@ -73800,7 +73800,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3608038&rc2=DG0230A",
           "reference": "3608038DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3608038DG0230A",
@@ -73893,7 +73893,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3608039&rc2=DG0230A",
           "reference": "3608039DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3608039DG0230A",
@@ -74018,7 +74018,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3608040&rc2=DG0230A",
           "reference": "3608040DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3608040DG0230A",
@@ -74167,7 +74167,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3608041&rc2=DG0230A",
           "reference": "3608041DG0230A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3608041DG0230A",
@@ -74304,7 +74304,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3608044&rc2=DG0230A",
           "reference": "3608044DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 4,
           "numberOfDw": 3,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3608044DG0230A",
@@ -74421,7 +74421,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3608045&rc2=DG0230A",
           "reference": "3608045DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3608045DG0230A",
@@ -74546,7 +74546,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3608046&rc2=DG0230A",
           "reference": "3608046DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 4,
           "numberOfDw": 3,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3608046DG0230A",
@@ -74647,7 +74647,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3608047&rc2=DG0230A",
           "reference": "3608047DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 8,
           "numberOfDw": 6,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3608047DG0230A",
@@ -74748,7 +74748,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3608061&rc2=DG0230A",
           "reference": "3608061DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 4,
           "numberOfDw": 3,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3608061DG0230A",
@@ -74861,7 +74861,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3608062&rc2=DG0230A",
           "reference": "3608062DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 4,
           "numberOfDw": 3,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3608062DG0230A",
@@ -74982,7 +74982,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3608063&rc2=DG0230A",
           "reference": "3608063DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 3,
           "numberOfDw": 2,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3608063DG0230A",
@@ -75091,7 +75091,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3608064&rc2=DG0230A",
           "reference": "3608064DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3608064DG0230A",
@@ -75212,7 +75212,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3608065&rc2=DG0230A",
           "reference": "3608065DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3608065DG0230A",
@@ -75325,7 +75325,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3608066&rc2=DG0230A",
           "reference": "3608066DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3608066DG0230A",
@@ -75426,7 +75426,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3608067&rc2=DG0230A",
           "reference": "3608067DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3608067DG0230A",
@@ -75519,7 +75519,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3608068&rc2=DG0230A",
           "reference": "3608068DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3608068DG0230A",
@@ -75628,7 +75628,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3608070&rc2=DG0230A",
           "reference": "3608070DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3608070DG0230A",
@@ -75729,7 +75729,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3608072&rc2=DG0230A",
           "reference": "3608072DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3608072DG0230A",
@@ -75842,7 +75842,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3608073&rc2=DG0230A",
           "reference": "3608073DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3608073DG0230A",
@@ -76015,7 +76015,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3608074&rc2=DG0230A",
           "reference": "3608074DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3608074DG0230A",
@@ -76128,7 +76128,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3608075&rc2=DG0230A",
           "reference": "3608075DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3608075DG0230A",
@@ -76197,7 +76197,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3608083&rc2=DG0230A",
           "reference": "3608083DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3608083DG0230A",
@@ -76278,7 +76278,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3608086&rc2=DG0230A",
           "reference": "3608086DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 4,
           "numberOfDw": 3,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3608086DG0230A",
@@ -76395,7 +76395,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3608092&rc2=DG0230A",
           "reference": "3608092DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3608092DG0230A",
@@ -76476,7 +76476,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3608093&rc2=DG0230A",
           "reference": "3608093DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3608093DG0230A",
@@ -76597,7 +76597,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3669023&rc2=DG0236E",
           "reference": "3669023DG0236E",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3669023DG0236E",
@@ -76786,7 +76786,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3669024&rc2=DG0236E",
           "reference": "3669024DG0236E",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3669024DG0236E",
@@ -76855,7 +76855,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3697204&rc2=DG0139G",
           "reference": "3697204DG0139G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3697204DG0139G",
@@ -76948,7 +76948,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3697205&rc2=DG0139G",
           "reference": "3697205DG0139G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3697205DG0139G",
@@ -77033,7 +77033,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3697206&rc2=DG0139G",
           "reference": "3697206DG0139G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3697206DG0139G",
@@ -77178,7 +77178,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3697207&rc2=DG0139G",
           "reference": "3697207DG0139G",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3697207DG0139G",
@@ -77263,7 +77263,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3701002&rc2=DG0230A",
           "reference": "3701002DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3701002DG0230A",
@@ -77372,7 +77372,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3701003&rc2=DG0230A",
           "reference": "3701003DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3701003DG0230A",
@@ -77493,7 +77493,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3701004&rc2=DG0230A",
           "reference": "3701004DG0230A",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3701004DG0230A",
@@ -77566,7 +77566,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3701009&rc2=DG0230A",
           "reference": "3701009DG0230A",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 3,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3701009DG0230A",
@@ -77865,7 +77865,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3701019&rc2=DG0230A",
           "reference": "3701019DG0230A",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3701019DG0230A",
@@ -78010,7 +78010,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3701021&rc2=DG0230A",
           "reference": "3701021DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3701021DG0230A",
@@ -78223,7 +78223,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3701022&rc2=DG0230A",
           "reference": "3701022DG0230A",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3701022DG0230A",
@@ -78364,7 +78364,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3702003&rc2=DG0230A",
           "reference": "3702003DG0230A",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3702003DG0230A",
@@ -78485,7 +78485,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3703022&rc2=DG0230A",
           "reference": "3703022DG0230A",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3703022DG0230A",
@@ -78650,7 +78650,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3703023&rc2=DG0230A",
           "reference": "3703023DG0230A",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3703023DG0230A",
@@ -78815,7 +78815,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3703024&rc2=DG0230A",
           "reference": "3703024DG0230A",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3703024DG0230A",
@@ -78964,7 +78964,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=37040A7&rc2=DG0230A",
           "reference": "37040A7DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=37040A7DG0230A",
@@ -79089,7 +79089,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=37040B0&rc2=DG0230A",
           "reference": "37040B0DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=37040B0DG0230A",
@@ -79218,7 +79218,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3704014&rc2=DG0230A",
           "reference": "3704014DG0230A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3704014DG0230A",
@@ -79291,7 +79291,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3711006&rc2=DG0231A",
           "reference": "3711006DG0231A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3711006DG0231A",
@@ -79368,7 +79368,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3711018&rc2=DG0231A",
           "reference": "3711018DG0231A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3711018DG0231A",
@@ -79461,7 +79461,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3711019&rc2=DG0231A",
           "reference": "3711019DG0231A",
-          "currentUse": "4_3_publicServices",
+          "currentUse": "PublicServices",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3711019DG0231A",
@@ -79538,7 +79538,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3711020&rc2=DG0231A",
           "reference": "3711020DG0231A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 50,
           "numberOfDw": 48,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3711020DG0231A",
@@ -79735,7 +79735,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3711021&rc2=DG0231A",
           "reference": "3711021DG0231A",
-          "currentUse": "4_2_retail",
+          "currentUse": "Retail",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3711021DG0231A",
@@ -79828,7 +79828,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3711022&rc2=DG0231A",
           "reference": "3711022DG0231A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3711022DG0231A",
@@ -79929,7 +79929,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3711023&rc2=DG0231A",
           "reference": "3711023DG0231A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3711023DG0231A",
@@ -80022,7 +80022,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3711024&rc2=DG0231A",
           "reference": "3711024DG0231A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3711024DG0231A",
@@ -80103,7 +80103,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3711037&rc2=DG0231A",
           "reference": "3711037DG0231A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3711037DG0231A",
@@ -80192,7 +80192,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3711040&rc2=DG0231A",
           "reference": "3711040DG0231A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3711040DG0231A",
@@ -80281,7 +80281,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3711041&rc2=DG0231A",
           "reference": "3711041DG0231A",
-          "currentUse": "4_2_retail",
+          "currentUse": "Retail",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3711041DG0231A",
@@ -81042,7 +81042,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3711042&rc2=DG0231A",
           "reference": "3711042DG0231A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3711042DG0231A",
@@ -81091,7 +81091,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3711043&rc2=DG0231A",
           "reference": "3711043DG0231A",
-          "currentUse": "4_2_retail",
+          "currentUse": "Retail",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3711043DG0231A",
@@ -81168,7 +81168,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3711045&rc2=DG0231A",
           "reference": "3711045DG0231A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3711045DG0231A",
@@ -81289,7 +81289,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3768002&rc2=DG0136E",
           "reference": "3768002DG0136E",
-          "currentUse": "4_3_publicServices",
+          "currentUse": "PublicServices",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3768002DG0136E",
@@ -81834,7 +81834,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3799023&rc2=DG0139G",
           "reference": "3799023DG0139G",
-          "currentUse": "4_2_retail",
+          "currentUse": "Retail",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3799023DG0139G",
@@ -81927,7 +81927,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3805320&rc2=DG0230A",
           "reference": "3805320DG0230A",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3805320DG0230A",
@@ -81980,7 +81980,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3807004&rc2=DG0230A",
           "reference": "3807004DG0230A",
-          "currentUse": "4_3_publicServices",
+          "currentUse": "PublicServices",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3807004DG0230A",
@@ -82441,7 +82441,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3810001&rc2=DG0231A",
           "reference": "3810001DG0231A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 5,
           "numberOfDw": 3,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3810001DG0231A",
@@ -82606,7 +82606,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3811007&rc2=DG0231A",
           "reference": "3811007DG0231A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3811007DG0231A",
@@ -82711,7 +82711,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=3874734&rc2=DG0137E",
           "reference": "3874734DG0137E",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3874734DG0137E",
@@ -82828,7 +82828,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4006801&rc2=DG0240A",
           "reference": "4006801DG0240A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4006801DG0240A",
@@ -82961,7 +82961,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4006802&rc2=DG0240A",
           "reference": "4006802DG0240A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4006802DG0240A",
@@ -83054,7 +83054,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4006803&rc2=DG0240A",
           "reference": "4006803DG0240A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4006803DG0240A",
@@ -83179,7 +83179,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4006804&rc2=DG0240A",
           "reference": "4006804DG0240A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4006804DG0240A",
@@ -83272,7 +83272,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4006805&rc2=DG0240A",
           "reference": "4006805DG0240A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4006805DG0240A",
@@ -83349,7 +83349,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4006806&rc2=DG0240A",
           "reference": "4006806DG0240A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4006806DG0240A",
@@ -83422,7 +83422,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4006807&rc2=DG0240A",
           "reference": "4006807DG0240A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4006807DG0240A",
@@ -83545,7 +83545,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4006808&rc2=DG0240A",
           "reference": "4006808DG0240A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4006808DG0240A",
@@ -83630,7 +83630,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4006809&rc2=DG0240A",
           "reference": "4006809DG0240A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4006809DG0240A",
@@ -83703,7 +83703,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4006810&rc2=DG0240A",
           "reference": "4006810DG0240A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 3,
           "numberOfDw": 2,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4006810DG0240A",
@@ -83844,7 +83844,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4006811&rc2=DG0240A",
           "reference": "4006811DG0240A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4006811DG0240A",
@@ -83977,7 +83977,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4006812&rc2=DG0240A",
           "reference": "4006812DG0240A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4006812DG0240A",
@@ -84122,7 +84122,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4006813&rc2=DG0240A",
           "reference": "4006813DG0240A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 25,
           "numberOfDw": 10,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4006813DG0240A",
@@ -84231,7 +84231,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4006814&rc2=DG0240A",
           "reference": "4006814DG0240A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4006814DG0240A",
@@ -84304,7 +84304,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4006815&rc2=DG0240A",
           "reference": "4006815DG0240A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4006815DG0240A",
@@ -84393,7 +84393,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4006816&rc2=DG0240A",
           "reference": "4006816DG0240A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4006816DG0240A",
@@ -84502,7 +84502,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4006817&rc2=DG0240A",
           "reference": "4006817DG0240A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4006817DG0240A",
@@ -84579,7 +84579,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4006818&rc2=DG0240A",
           "reference": "4006818DG0240A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4006818DG0240A",
@@ -84652,7 +84652,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4006819&rc2=DG0240A",
           "reference": "4006819DG0240A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4006819DG0240A",
@@ -84749,7 +84749,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4006820&rc2=DG0240A",
           "reference": "4006820DG0240A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4006820DG0240A",
@@ -84814,7 +84814,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4006821&rc2=DG0240A",
           "reference": "4006821DG0240A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4006821DG0240A",
@@ -84887,7 +84887,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4006822&rc2=DG0240A",
           "reference": "4006822DG0240A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4006822DG0240A",
@@ -84964,7 +84964,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4006823&rc2=DG0240A",
           "reference": "4006823DG0240A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4006823DG0240A",
@@ -85041,7 +85041,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4006824&rc2=DG0240A",
           "reference": "4006824DG0240A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4006824DG0240A",
@@ -85114,7 +85114,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4006825&rc2=DG0240A",
           "reference": "4006825DG0240A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4006825DG0240A",
@@ -85211,7 +85211,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4006826&rc2=DG0240A",
           "reference": "4006826DG0240A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4006826DG0240A",
@@ -85276,7 +85276,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4011002&rc2=DG0241A",
           "reference": "4011002DG0241A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4011002DG0241A",
@@ -85421,7 +85421,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4011003&rc2=DG0241A",
           "reference": "4011003DG0241A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4011003DG0241A",
@@ -85526,7 +85526,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4011004&rc2=DG0241A",
           "reference": "4011004DG0241A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 2,
           "numberOfDw": 2,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4011004DG0241A",
@@ -85655,7 +85655,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4011005&rc2=DG0241A",
           "reference": "4011005DG0241A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4011005DG0241A",
@@ -85752,7 +85752,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4011006&rc2=DG0241A",
           "reference": "4011006DG0241A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4011006DG0241A",
@@ -85861,7 +85861,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4011007&rc2=DG0241A",
           "reference": "4011007DG0241A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4011007DG0241A",
@@ -86099,7 +86099,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4011012&rc2=DG0241A",
           "reference": "4011012DG0241A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4011012DG0241A",
@@ -86176,7 +86176,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4011013&rc2=DG0241A",
           "reference": "4011013DG0241A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4011013DG0241A",
@@ -86249,7 +86249,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4011014&rc2=DG0241A",
           "reference": "4011014DG0241A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4011014DG0241A",
@@ -86354,7 +86354,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4011015&rc2=DG0241A",
           "reference": "4011015DG0241A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4011015DG0241A",
@@ -86439,7 +86439,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4011016&rc2=DG0241A",
           "reference": "4011016DG0241A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 3,
           "numberOfDw": 2,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4011016DG0241A",
@@ -86512,7 +86512,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4011017&rc2=DG0241A",
           "reference": "4011017DG0241A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4011017DG0241A",
@@ -86609,7 +86609,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4011018&rc2=DG0241A",
           "reference": "4011018DG0241A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4011018DG0241A",
@@ -86694,7 +86694,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4011019&rc2=DG0241A",
           "reference": "4011019DG0241A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4011019DG0241A",
@@ -86787,7 +86787,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4011020&rc2=DG0241A",
           "reference": "4011020DG0241A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4011020DG0241A",
@@ -86864,7 +86864,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4011021&rc2=DG0241A",
           "reference": "4011021DG0241A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4011021DG0241A",
@@ -86965,7 +86965,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4011022&rc2=DG0241A",
           "reference": "4011022DG0241A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4011022DG0241A",
@@ -87066,7 +87066,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4011023&rc2=DG0241A",
           "reference": "4011023DG0241A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 4,
           "numberOfDw": 2,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4011023DG0241A",
@@ -87167,7 +87167,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4011024&rc2=DG0241A",
           "reference": "4011024DG0241A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4011024DG0241A",
@@ -87232,7 +87232,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4070702&rc2=DG0147E",
           "reference": "4070702DG0147E",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 12,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4070702DG0147E",
@@ -87913,7 +87913,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4070703&rc2=DG0147E",
           "reference": "4070703DG0147E",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4070703DG0147E",
@@ -88050,7 +88050,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4112219&rc2=DG0241A",
           "reference": "4112219DG0241A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4112219DG0241A",
@@ -88115,7 +88115,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4112220&rc2=DG0241A",
           "reference": "4112220DG0241A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4112220DG0241A",
@@ -88180,7 +88180,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4112221&rc2=DG0241A",
           "reference": "4112221DG0241A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4112221DG0241A",
@@ -88305,7 +88305,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4112222&rc2=DG0241A",
           "reference": "4112222DG0241A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4112222DG0241A",
@@ -88446,7 +88446,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4112223&rc2=DG0241A",
           "reference": "4112223DG0241A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4112223DG0241A",
@@ -88499,7 +88499,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4112224&rc2=DG0241A",
           "reference": "4112224DG0241A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4112224DG0241A",
@@ -88656,7 +88656,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4112225&rc2=DG0241A",
           "reference": "4112225DG0241A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 2,
           "numberOfDw": 2,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4112225DG0241A",
@@ -88733,7 +88733,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4112226&rc2=DG0241A",
           "reference": "4112226DG0241A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4112226DG0241A",
@@ -88898,7 +88898,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4112227&rc2=DG0241A",
           "reference": "4112227DG0241A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4112227DG0241A",
@@ -89011,7 +89011,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4112229&rc2=DG0241A",
           "reference": "4112229DG0241A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4112229DG0241A",
@@ -89128,7 +89128,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4112230&rc2=DG0241A",
           "reference": "4112230DG0241A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4112230DG0241A",
@@ -89305,7 +89305,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4112231&rc2=DG0241A",
           "reference": "4112231DG0241A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4112231DG0241A",
@@ -89414,7 +89414,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4112232&rc2=DG0241A",
           "reference": "4112232DG0241A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4112232DG0241A",
@@ -89587,7 +89587,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4112241&rc2=DG0241A",
           "reference": "4112241DG0241A",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4112241DG0241A",
@@ -89732,7 +89732,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4112242&rc2=DG0241A",
           "reference": "4112242DG0241A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4112242DG0241A",
@@ -89841,7 +89841,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4112243&rc2=DG0241A",
           "reference": "4112243DG0241A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4112243DG0241A",
@@ -89910,7 +89910,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4116031&rc2=DG0241A",
           "reference": "4116031DG0241A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4116031DG0241A",
@@ -89975,7 +89975,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4510002&rc2=DG0241A",
           "reference": "4510002DG0241A",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4510002DG0241A",
@@ -90052,7 +90052,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4510008&rc2=DG0241A",
           "reference": "4510008DG0241A",
-          "currentUse": "2_agriculture",
+          "currentUse": "Agriculture",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4510008DG0241A",
@@ -90117,7 +90117,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4510009&rc2=DG0241A",
           "reference": "4510009DG0241A",
-          "currentUse": "4_3_publicServices",
+          "currentUse": "PublicServices",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4510009DG0241A",
@@ -90206,7 +90206,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4510010&rc2=DG0241A",
           "reference": "4510010DG0241A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4510010DG0241A",
@@ -90543,7 +90543,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4510011&rc2=DG0241A",
           "reference": "4510011DG0241A",
-          "currentUse": "4_1_office",
+          "currentUse": "Office",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4510011DG0241A",
@@ -90692,7 +90692,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4518207&rc2=DG0241A",
           "reference": "4518207DG0241A",
-          "currentUse": "4_1_office",
+          "currentUse": "Office",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4518207DG0241A",
@@ -90895,7 +90895,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4518211&rc2=DG0241A",
           "reference": "4518211DG0241A",
-          "currentUse": "4_1_office",
+          "currentUse": "Office",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4518211DG0241A",
@@ -90964,7 +90964,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=4617028&rc2=DG0241A",
           "reference": "4617028DG0241A",
-          "currentUse": "1_residential",
+          "currentUse": "Residential",
           "numberOfBu": 1,
           "numberOfDw": 1,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4617028DG0241A",
@@ -91129,7 +91129,7 @@ var bigdata =
         "properties": {
           "informatio": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?rc1=5601774&rc2=DG0250B",
           "reference": "5601774DG0250B",
-          "currentUse": "3_industrial",
+          "currentUse": "Industrial",
           "numberOfBu": 1,
           "numberOfDw": 0,
           "documentLi": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5601774DG0250B",
