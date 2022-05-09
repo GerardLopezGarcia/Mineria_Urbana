@@ -409,19 +409,19 @@ var legend = L.control({position: 'bottomright'});
 
 legend.onAdd = function () {
 
-  var div = L.DomUtil.create('div', 'legend-colors');
+  var div = L.DomUtil.create('div', 'legend');
   var grades = [ 1600, 1700, 1850, 1930, 1960, 1980, 2000];
   var labels = [];
+  
+  for (var i = 0; i < grades.length; i++) {
+    div.innerHTML +=
+        '<i style="background:' + getColor_by_year(grades[i] + 1) + '"></i> ' +
+        grades[i] + (grades[i + 1] ? '&ndash;' + grades[i + 1] + '<br>' : '+');
+}
+
+return div;
 
 
-  for (var i = 0; i < grades.length + 1; i++) {
-
-    labels.push(
-       '<i style = "background : ' + getColor_by_year(grades[i]) +' "></i>' +  '<div> ' + getColor_by_year(grades[i]) + '</div> ' + grades[i] );
-  }
-
-  div.innerHTML = labels.join('<br>');
-  return div;
 };
 
 legend.addTo(map);
