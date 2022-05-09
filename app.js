@@ -210,19 +210,110 @@ function getColor_by_year(d) {
 }
 
 //mapa per formigo
-function getColor3(d) {
-  return d > 8000 ? '#fff7f3' :
-         d > 2000  ? '#fde0dd' :
-         d > 500  ? '#fcc5c0' :
-         d > 200  ? '#fa9fb5' :
-         d > 90   ? '##f768a1' :
-         d > 50   ? '#dd3497' :
-         d > 30   ? '#ae017e' :
-         d > 0 ? '##f768a1':
-                    'null ';
+function getColor1(d) {
+  return d > 2044 ? '#00441b' :
+         d > 999  ? '#006d2c' :
+         d > 663  ? '#238b45' :
+         d > 412  ? '#41ab5d' :
+         d > 245   ? '#74c476' :
+         d > 99   ? '#a1d99b' :
+         d > 45   ? '#c7e9c0' :
+         d > 0 ? '#e5f5e0':
+                    'undefined ';
 }
 
-//////////////
+//ceramica
+function getColor2(d) {
+  return d > 32214 ? '#67000d' :
+         d > 10642 ? '#a50f15' :
+         d > 6999  ? '#cb181d' :
+         d > 3955  ? '#ef3b2c' :
+         d > 2596  ? '#fb6a4a' :
+         d > 1415   ? '#fc9272' :
+         d > 651   ? '#fcbba1' :
+         d > 231   ? '#fee0d2' :
+         d > 0 ? '#fff5f0':
+                    'undefined ';
+}
+//vidre
+function getColor3(d) {
+  return d > 8134 ? '#49006a' :
+         d > 3529 ? '#7a0177' :
+         d > 1767  ? '#ae017e' :
+         d > 1019  ? '#dd3497' :
+         d > 665  ? '#f768a1' :
+         d > 367   ? '#fa9fb5' :
+         d > 186   ? '#fcc5c0' :
+         d > 76   ? '#fde0dd' :
+         d > 0 ? '#fff7f3':
+                    'undefined ';
+}
+//poliestire
+function getColor4(d) {
+  return d > 2236 ? '#014636' :
+         d > 766 ? '#016c59' :
+         d > 434  ? '#02818a' :
+         d > 216  ? '#3690c0' :
+         d > 140  ? '#67a9cf' :
+         d > 68   ? '#a6bddb' :
+         d > 33   ? '#d0d1e6' :
+         d > 8   ? '#ece2f0' :
+         d > 0 ? '#fff7fb':
+                    'undefined ';
+}
+//pvc
+function getColor5(d) {
+  return d > 1118 ? '#3f007d' :
+         d > 383 ? '#54278f' :
+         d > 216  ? '#6a51a3' :
+         d > 108  ? '#807dba' :
+         d > 70  ? '#9e9ac8' :
+         d > 34   ? '#bcbddc' :
+         d > 16   ? '#dadaeb' :
+         d > 4   ? '#efedf5' :
+         d > 0 ? '#fcfbfd':
+                    'undefined ';
+}
+//acer
+function getColor6(d) {
+  return d > 1956 ? '#023858' :
+         d > 825 ? '#045a8d' :
+         d > 331  ? '#0570b0' :
+         d > 163  ? '#3690c0' :
+         d > 111  ? '#74a9cf' :
+         d > 68   ? '#a6bddb' :
+         d > 31   ? '#d0d1e6' :
+         d > 8   ? '#ece7f2' :
+         d > 0 ? '#fff7fb':
+                    'undefined ';
+}
+//alumini
+function getColor7(d) {
+  return d > 193 ? '#67001f' :
+         d > 105 ? '#980043' :
+         d > 58  ? '#ce1256' :
+         d > 25  ? '#e7298a' :
+         d > 15  ? '#df65b0' :
+         d > 8   ? '#c994c7' :
+         d > 4   ? '#d4b9da' :
+         d > 1   ? '#e7e1ef' :
+         d > 0 ? '#f7f4f9':
+                    'undefined ';
+}
+//coure
+function getColor8(d) {
+  return d > 8698 ? '#662506' :
+         d > 1449 ? '#993404' :
+         d > 526  ? '#cc4c02' :
+         d > 228  ? '#ec7014' :
+         d > 114  ? '#fe9929' :
+         d > 59   ? '#fec44f' :
+         d > 26   ? '#fee391' :
+         d > 8   ? '#fff7bc' :
+         d > 0 ? '#ffffe5':
+                    'undefined ';
+}
+////////////
 
 
 function zoomToFeature(e) {
@@ -246,16 +337,12 @@ function highlightFeature(e) {
   panel.update(layer.feature.properties);
 }
 
-function resetHighlight(e) { 
-  
-  year.resetStyle(e.target);
-  panel.update();
-}
+
 
 function onEachFeature(feature, layer) {
   layer.on({
       mouseover: highlightFeature,
-      mouseout: resetHighlight,
+      mouseout: function(e){  year.resetStyle(e.target);panel.update();},
       click: zoomToFeature
   })
 }
@@ -270,7 +357,13 @@ var infos = L.geoJSON(info, { style:
       dashArray: '3',
       fillOpacity: 0.7
   };
-}, onEachFeature : onEachFeature})
+}, onEachFeature : function (feature, layer) {
+  layer.on({
+      mouseover: highlightFeature,
+      mouseout: function(e){  infos.resetStyle(e.target);panel.update();},
+      click: zoomToFeature
+  })
+}})
 
 layerControl.addOverlay(infos,"Current_Use")
 
@@ -279,10 +372,14 @@ import{Min_Urb} from "./poum.js";
 var POUM = L.geoJSON(Min_Urb , {
   style : function (feature) {
     return {fillColor: feature.properties.fill,weight: 2,opacity: 2,color: feature.properties.fill,dashArray: '3',fillOpacity: 0.5}
-  }, onEachFeature : onEachFeature
-}).bindPopup(function (layer) {
-  return `this is a ${layer.feature.geometry.type} with coordinates ${layer.feature.geometry.coordinates[0][0]}  Urbanistic key = ${layer.feature.properties.clau_urbanistica}`
-});
+  }, onEachFeature : function onEachFeature(feature, layer) {
+    layer.on({
+        mouseover: highlightFeature,
+        mouseout: function(e){  POUM.resetStyle();panel.update();},
+        click: zoomToFeature
+    })
+  }
+})
 
 layerControl.addOverlay(POUM,"Urban_plan")
 
@@ -295,27 +392,39 @@ import {bigdata} from "./bigdata.js"; // QUANTIFICACIÓ DE MINERALS
 
 var formigo =L.geoJSON(bigdata,{ style: function (feature) {
   return {
-      fillColor: getColor3(feature.properties.formigo),
+      fillColor: getColor1(feature.properties.formigo),
       weight: 2,
       opacity: 1,
-      color: getColor3(feature.properties.formigo),
+      color: getColor1(feature.properties.formigo),
       dashArray: '3',
       fillOpacity: 0.7
   };
-},onEachFeature : onEachFeature})
+},onEachFeature : function (feature, layer) {
+  layer.on({
+      mouseover: highlightFeature,
+      mouseout: function(e){  formigo.resetStyle(e.target);panel.update();},
+      click: zoomToFeature
+  })
+}})
 
 layerControl.addOverlay(formigo,"Concrete")
 
 var ceramica =L.geoJSON(bigdata,{ style: function (feature) {
   return {
-      fillColor: getColor3(feature.properties.ceramica),
+      fillColor: getColor2(feature.properties.ceramica),
       weight: 2,
       opacity: 1,
-      color: getColor3(feature.properties.ceramica),
+      color: getColor2(feature.properties.ceramica),
       dashArray: '3',
       fillOpacity: 0.7
   };
-},onEachFeature : onEachFeature})
+},onEachFeature : function (feature, layer) {
+  layer.on({
+      mouseover: highlightFeature,
+      mouseout: function(e){  ceramica.resetStyle(e.target);panel.update();},
+      click: zoomToFeature
+  })
+}})
 
 layerControl.addOverlay(ceramica,"Ceramic")
 
@@ -328,79 +437,113 @@ var vidre =L.geoJSON(bigdata,{ style: function (feature) {
       dashArray: '3',
       fillOpacity: 0.7
   };
-},onEachFeature : onEachFeature})
+},onEachFeature : function (feature, layer) {
+  layer.on({
+      mouseover: highlightFeature,
+      mouseout: function(e){  vidre.resetStyle(e.target);panel.update();},
+      click: zoomToFeature
+  })
+}})
 
 layerControl.addOverlay(vidre,"Glass")
 
 var poliestire =L.geoJSON(bigdata,{ style: function (feature) {
   return {
-      fillColor: getColor3(feature.properties.poliestire),
+      fillColor: getColor4(feature.properties.poliestire),
       weight: 2,
       opacity: 1,
-      color: getColor3(feature.properties.poliestire),
+      color: getColor4(feature.properties.poliestire),
       dashArray: '3',
       fillOpacity: 0.7
   };
-},onEachFeature : onEachFeature})
+},onEachFeature : function (feature, layer) {
+  layer.on({
+      mouseover: highlightFeature,
+      mouseout: function(e){  poliestire.resetStyle(e.target);panel.update();},
+      click: zoomToFeature
+  })
+}})
 
 layerControl.addOverlay(poliestire,"Polystyrene")
 
 var pvc =L.geoJSON(bigdata,{ style: function (feature) {
   return {
-      fillColor: getColor3(feature.properties.pvc),
+      fillColor: getColor5(feature.properties.pvc),
       weight: 2,
       opacity: 1,
-      color: getColor3(feature.properties.pvc),
+      color: getColor5(feature.properties.pvc),
       dashArray: '3',
       fillOpacity: 0.7
   };
-},onEachFeature : onEachFeature})
+},onEachFeature : function (feature, layer) {
+  layer.on({
+      mouseover: highlightFeature,
+      mouseout: function(e){  pvc.resetStyle(e.target);panel.update();},
+      click: zoomToFeature
+  })
+}})
 
 layerControl.addOverlay(pvc,"PVC")
 
 var acer =L.geoJSON(bigdata,{ style: function (feature) {
   return {
-      fillColor: getColor3(feature.properties.acer),
+      fillColor: getColor6(feature.properties.acer),
       weight: 2,
       opacity: 1,
-      color: getColor3(feature.properties.acer),
+      color: getColor6(feature.properties.acer),
       dashArray: '3',
       fillOpacity: 0.7
   };
-},onEachFeature : onEachFeature})
+},onEachFeature : function (feature, layer) {
+  layer.on({
+      mouseover: highlightFeature,
+      mouseout: function(e){  acer.resetStyle(e.target);panel.update();},
+      click: zoomToFeature
+  })
+}})
 
 layerControl.addOverlay(acer,"Steel")
 
 var alumini =L.geoJSON(bigdata,{ style: function (feature) {
   return {
-      fillColor: getColor3(feature.properties.alumini),
+      fillColor: getColor7(feature.properties.alumini),
       weight: 2,
       opacity: 1,
-      color: getColor3(feature.properties.alumini),
+      color: getColor7(feature.properties.alumini),
       dashArray: '3',
       fillOpacity: 0.7
   };
-},onEachFeature : onEachFeature})
+},onEachFeature : function (feature, layer) {
+  layer.on({
+      mouseover: highlightFeature,
+      mouseout: function(e){  alumini.resetStyle(e.target);panel.update();},
+      click: zoomToFeature
+  })
+}})
 
 layerControl.addOverlay(alumini,"Aluminium")
 
 var coure =L.geoJSON(bigdata,{ style: function (feature) {
   return {
-      fillColor: getColor3(feature.properties.coure),
+      fillColor: getColor8(feature.properties.coure),
       weight: 2,
       opacity: 1,
-      color: getColor3(feature.properties.coure),
+      color: getColor8(feature.properties.coure),
       dashArray: '3',
       fillOpacity: 0.7
   };
-},onEachFeature : onEachFeature})
+},onEachFeature : function (feature, layer) {
+  layer.on({
+      mouseover: highlightFeature,
+      mouseout: function(e){  coure.resetStyle(e.target);panel.update();},
+      click: zoomToFeature
+  })
+}})
 
 layerControl.addOverlay(coure,"Copper")
 
 
 //escollir be les llegendes 
-
-
 
 
 
@@ -411,17 +554,200 @@ legend.onAdd = function () {
 
   var div = L.DomUtil.create('div', 'legend');
   var grades = [ 1600, 1700, 1850, 1930, 1960, 1980, 2000];
-  var labels = [];
   
+
   for (var i = 0; i < grades.length; i++) {
-    div.innerHTML +=
-        '<i style="background:' + getColor_by_year(grades[i] + 1) + '"></i> ' +
-        grades[i] + (grades[i + 1] ? '&ndash;' + grades[i + 1] + '<br>' : '+');
-}
 
-return div;
-
-
+    div.innerHTML +='<i style="background:' + getColor_by_year(grades[i] + 1) + '"></i> ' +
+    grades[i] + (grades[i + 1] ? '&ndash;' + grades[i + 1] + '<br>' : '+');   
+  }
+  
+	return div;
 };
 
+var legend_use = L.control({postition : 'bottomrigth'})
+legend_use.onAdd = function () {
+  
+  var div = L.DomUtil.create('div', 'legend');
+
+  var grades = ["Agriculture","Residential","PublicServices","Retail","Office","Industrial"];
+
+  for (var i = 0; i < grades.length; i++) {
+    div.innerHTML +='<i style="background:' + getColor_by_use(grades[i]) + '"></i> ' +
+    grades[i] + '<br>';  
+    
+  }
+  return div
+}
+
+var legend_concrete = L.control({position: 'bottomright'})
+
+legend_concrete.onAdd = function () {
+  var div = L.DomUtil.create('div', 'legend');
+
+  var grades = [0,45,100,250,420,670,1000,2050];
+
+  for (var i = 0; i < grades.length; i++) {
+    div.innerHTML +='<i style="background:' + getColor1(grades[i] + 1) + '"></i> ' +
+    grades[i] + (grades[i + 1] ? '&ndash;' + grades[i + 1] + '<br>' : '+');   
+  }
+  return div
+}
+
+var legend_ceramica = L.control({position: 'bottomright'})
+
+legend_ceramica.onAdd = function () {
+  var div = L.DomUtil.create('div', 'legend');
+
+  var grades = [0,240,660,1420,2600,4000,7000,10650,32300];
+
+  for (var i = 0; i < grades.length; i++) {
+    div.innerHTML +='<i style="background:' + getColor2(grades[i] + 1) + '"></i> ' +
+    grades[i] + (grades[i + 1] ? '&ndash;' + grades[i + 1] + '<br>' : '+');   
+  }
+  return div
+}
+
+var l_vidre = L.control({position: 'bottomright'})
+
+l_vidre.onAdd = function () {
+  var div = L.DomUtil.create('div', 'legend');
+
+  var grades = [0,240,660,1420,2600,4000,7000,10650,32300];
+
+  for (var i = 0; i < grades.length; i++) {
+    div.innerHTML +='<i style="background:' + getColor3(grades[i] + 1) + '"></i> ' +
+    grades[i] + (grades[i + 1] ? '&ndash;' + grades[i + 1] + '<br>' : '+');   
+  }
+  return div
+}
+
+var l_poliestire = L.control({position: 'bottomright'})
+
+l_poliestire.onAdd = function () {
+  var div = L.DomUtil.create('div', 'legend');
+
+  var grades = [0,7,25,40,70,142,230,443,770];
+
+  for (var i = 0; i < grades.length; i++) {
+    div.innerHTML +='<i style="background:' + getColor4(grades[i] + 1) + '"></i> ' +
+    grades[i] + (grades[i + 1] ? '&ndash;' + grades[i + 1] + '<br>' : '+');   
+  }
+  return div
+}
+
+var l_pvc = L.control({position: 'bottomright'})
+
+l_pvc.onAdd = function () {
+  var div = L.DomUtil.create('div', 'legend');
+
+  var grades = [0,4,12,20,35,71,109,220,500];
+
+  for (var i = 0; i < grades.length; i++) {
+    div.innerHTML +='<i style="background:' + getColor5(grades[i] + 1) + '"></i> ' +
+    grades[i] + (grades[i + 1] ? '&ndash;' + grades[i + 1] + '<br>' : '+');   
+  }
+  return div
+}
+
+var l_acer = L.control({position: 'bottomright'})
+
+l_acer.onAdd = function () {
+  var div = L.DomUtil.create('div', 'legend');
+
+  var grades = [0,32,70,112,170,340,826,1960];
+
+  for (var i = 0; i < grades.length; i++) {
+    div.innerHTML +='<i style="background:' + getColor6(grades[i] + 1) + '"></i> ' +
+    grades[i] + (grades[i + 1] ? '&ndash;' + grades[i + 1] + '<br>' : '+');   
+  }
+  return div
+}
+
+var l_alumini = L.control({position: 'bottomright'})
+
+l_alumini.onAdd = function () {
+  var div = L.DomUtil.create('div', 'legend');
+
+  var grades = [0,1,3,6,11,18,26,60,106,194];
+
+  for (var i = 0; i < grades.length; i++) {
+    div.innerHTML +='<i style="background:' + getColor7(grades[i] + 1) + '"></i> ' +
+    grades[i] + (grades[i + 1] ? '&ndash;' + grades[i + 1] + '<br>' : '+');   
+  }
+  return div
+}
+
+var l_coure = L.control({position: 'bottomright'})
+
+l_coure.onAdd = function () {
+  var div = L.DomUtil.create('div', 'legend');
+
+  var grades = [0,7,21,40,68,115,230,527,1450,8700];
+
+  for (var i = 0; i < grades.length; i++) {
+    div.innerHTML +='<i style="background:' + getColor8(grades[i] + 1) + '"></i> ' +
+    grades[i] + (grades[i + 1] ? '&ndash;' + grades[i + 1] + '<br>' : '+');   
+  }
+  return div
+}
+
+
 legend.addTo(map);
+var currentLegend = legend
+
+map.on('overlayadd',function (eventLayer) {
+ if (eventLayer.name === 'Construction_Year'){
+   map.removeControl(currentLegend)
+   currentLegend = legend
+   legend.addTo(map)
+ }
+ else if (eventLayer.name === 'Current_Use'){
+   map.removeControl(currentLegend)
+   currentLegend = legend_use
+   legend_use.addTo(map)
+ }
+ else if (eventLayer.name === 'Concrete'){
+  map.removeControl(currentLegend)
+  currentLegend = legend_concrete
+  legend_concrete.addTo(map)
+}
+else if (eventLayer.name === 'Ceramic'){
+  map.removeControl(currentLegend)
+  currentLegend = legend_ceramica
+  legend_ceramica.addTo(map)
+}
+else if (eventLayer.name === 'Glass'){
+  map.removeControl(currentLegend)
+  currentLegend = l_vidre
+  l_vidre.addTo(map)
+}
+else if (eventLayer.name === 'Polystyrene'){
+  map.removeControl(currentLegend)
+  currentLegend = l_poliestire
+  l_poliestire.addTo(map)
+}
+else if (eventLayer.name === 'PVC'){
+  map.removeControl(currentLegend)
+  currentLegend = l_pvc
+  l_pvc.addTo(map)
+}
+else if (eventLayer.name === 'Steel'){
+  map.removeControl(currentLegend)
+  currentLegend = l_acer
+  l_acer.addTo(map)
+}
+else if (eventLayer.name === 'Aluminium'){
+  map.removeControl(currentLegend)
+  currentLegend = l_alumini
+  l_alumini.addTo(map)
+}
+else if (eventLayer.name === 'Copper'){
+  map.removeControl(currentLegend)
+  currentLegend = l_coure
+  l_coure.addTo(map)
+}
+  
+})
+
+
