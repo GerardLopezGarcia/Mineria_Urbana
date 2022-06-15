@@ -100,35 +100,35 @@ panel.update = function (props) {
   }
   else if (map.hasLayer(formigo)){
     this._div.innerHTML = 
-    '<h2>Urban Mining Map</h2>' + '<div class="underline"></div>' +  (props ?  '<h3>Concrete_quantity : ' + props.formigo.toFixed(2)  + ' m<sup>3</sup></h3>' + '<p> area = ' + props.value + ' m<sup>2</sup> <br><br> end year = ' + props.data_edifc +  '<br><br> nº of units = ' + props.numberOfBu + '<br><br> current_use = ' + props.currentUse + '</p>  <small> Concrete represents 0.5% of the materials used in the construction of a modern building</small>'  : '<h4>Hover over a feature</h4>');
+    '<h2>Urban Mining Map</h2>' + '<div class="underline"></div>' +  (props ?  '<h3>Concrete_quantity : ' + props.formigo.toFixed(2)  + ' m<sup>3</sup></h3>' + '<p> area = ' + props.value + ' m<sup>2</sup> <br><br> end year = ' + props.data_edifc +  '<br><br> nº of units = ' + props.numberOfBu + '<br><br> current_use = ' + props.currentUse + '<br><br> total_estimated = 72.640,8 m3 '  + '</p>  <small> Concrete represents 0.5% of the materials used in the construction of a modern building</small>'  : '<h4>Hover over a feature</h4>');
   }
   else if (map.hasLayer(ceramica)){
     this._div.innerHTML = 
-    '<h2>Urban Mining Map</h2>' + '<div class="underline"></div>' +  (props ?  '<h3>Ceramic_quantity : ' + props.ceramica.toFixed(2)  + ' m<sup>3</sup></h3>' + '<p> area = ' + props.value + ' m<sup>2</sup> <br><br> end year = ' + props.data_edifc +  '<br><br> nº of units = ' + props.numberOfBu +  '<br><br> current_use = ' + props.currentUse + '</p>  <small> Ceramic material represents 0.5% of the materials used in the construction of historic buildings</small>'  : '<h4>Hover over a feature</h4>');
+    '<h2>Urban Mining Map</h2>' + '<div class="underline"></div>' +  (props ?  '<h3>Ceramic_quantity : ' + props.ceramica.toFixed(2)  + ' m<sup>3</sup></h3>' + '<p> area = ' + props.value + ' m<sup>2</sup> <br><br> end year = ' + props.data_edifc +  '<br><br> nº of units = ' + props.numberOfBu +  '<br><br> current_use = ' + props.currentUse + '<br><br> total_estimated = 618.295,5 m3 '  + '</p>  <small> Ceramic material represents 0.5% of the materials used in the construction of historic buildings</small>'  : '<h4>Hover over a feature</h4>');
   }
   else if (map.hasLayer(vidre)){
     this._div.innerHTML = 
-    '<h2>Urban Mining Map</h2>' + '<div class="underline"></div>' +  (props ?  '<h3>Glass_quantity : ' + props.vidre.toFixed(2)  + ' m<sup>3</sup></h3>' + '<p> area = ' + props.value + ' m<sup>2</sup> <br><br> end year = ' + props.data_edifc +  '<br><br> nº of units = ' + props.numberOfBu +  '<br><br> current_use = ' + props.currentUse + '</p>  <small> Glass represents 1/8 of the materials used in construction </small>'  : '<h4>Hover over a feature</h4>');
+    '<h2>Urban Mining Map</h2>' + '<div class="underline"></div>' +  (props ?  '<h3>Glass_quantity : ' + props.vidre.toFixed(2)  + ' m<sup>3</sup></h3>' + '<p> area = ' + props.value + ' m<sup>2</sup> <br><br> end year = ' + props.data_edifc +  '<br><br> nº of units = ' + props.numberOfBu +  '<br><br> current_use = ' + props.currentUse + '<br><br> total_estimated = 174.478,8 m3 '  + '</p>  <small> Glass represents 1/8 of the materials used in construction </small>'  : '<h4>Hover over a feature</h4>');
   }
   else if (map.hasLayer(poliestire)){
     this._div.innerHTML = 
-    '<h2>Urban Mining Map</h2>' + '<div class="underline"></div>' +  (props ?  '<h3>Polystyrene_quantity : ' + props.poliestire.toFixed(2)  + ' m<sup>3</sup></h3>' + '<p> area = ' + props.value + ' m<sup>2</sup> <br><br> end year = ' + props.data_edifc +  '<br><br> nº of units = ' + props.numberOfBu +  '<br><br> current_use = ' + props.currentUse + '</p>  <small> Polystyrene represents 8% of the materials used in the construction of a modern building</small>'  : '<h4>Hover over a feature</h4>');
+    '<h2>Urban Mining Map</h2>' + '<div class="underline"></div>' +  (props ?  '<h3>Polystyrene_quantity : ' + props.poliestire.toFixed(2)  + ' m<sup>3</sup></h3>' + '<p> area = ' + props.value + ' m<sup>2</sup> <br><br> end year = ' + props.data_edifc +  '<br><br> nº of units = ' + props.numberOfBu +  '<br><br> current_use = ' + props.currentUse + '<br><br> total_estimated = 10.477,5 m3 '  + '</p>  <small> Polystyrene represents 8% of the materials used in the construction of a modern building</small>'  : '<h4>Hover over a feature</h4>');
   }
   else if (map.hasLayer(pvc)){
     this._div.innerHTML = 
-    '<h2>Urban Mining Map</h2>' + '<div class="underline"></div>' +  (props ?  '<h3>PVC_quantity : ' + props.pvc.toFixed(2)  + ' m<sup>3</sup></h3>' + '<p> area = ' + props.value + ' m<sup>2</sup> <br><br> end year = ' + props.data_edifc +  '<br><br> nº of units = ' + props.numberOfBu +  '<br><br> current_use = ' + props.currentUse + '</p>  <small> PVC represents 4% of the materials used in the construction of a modern building</small>'  : '<h4>Hover over a feature</h4>');
+    '<h2>Urban Mining Map</h2>' + '<div class="underline"></div>' +  (props ?  '<h3>PVC_quantity : ' + props.pvc.toFixed(2)  + ' m<sup>3</sup></h3>' + '<p> area = ' + props.value + ' m<sup>2</sup> <br><br> end year = ' + props.data_edifc +  '<br><br> nº of units = ' + props.numberOfBu +  '<br><br> current_use = ' + props.currentUse + '<br><br> total_estimated = 5.238,7 m3 '  + '</p>  <small> PVC represents 4% of the materials used in the construction of a modern building</small>'  : '<h4>Hover over a feature</h4>');
   }
   else if (map.hasLayer(acer)){
     this._div.innerHTML = 
-    '<h2>Urban Mining Map</h2>' + '<div class="underline"></div>' +  (props ?  '<h3>Steel_quantity : ' + props.acer.toFixed(2)  + ' m<sup>3</sup></h3>' + '<p> area = ' + props.value + ' m<sup>2</sup> <br><br> end year = ' + props.data_edifc +  '<br><br> nº of units = ' + props.numberOfBu +  '<br><br> current_use = ' + props.currentUse + '</p>  <small> Steel represents 7% of the materials used in the construction of a modern building</small>'  : '<h4>Hover over a feature</h4>');
+    '<h2>Urban Mining Map</h2>' + '<div class="underline"></div>' +  (props ?  '<h3>Steel_quantity : ' + props.acer.toFixed(2)  + ' m<sup>3</sup></h3>' + '<p> area = ' + props.value + ' m<sup>2</sup> <br><br> end year = ' + props.data_edifc +  '<br><br> nº of units = ' + props.numberOfBu +  '<br><br> current_use = ' + props.currentUse + '<br><br> total_estimated = 11.519 m3 '  + '</p>  <small> Steel represents 7% of the materials used in the construction of a modern building</small>'  : '<h4>Hover over a feature</h4>');
   }
   else if (map.hasLayer(alumini)){
     this._div.innerHTML = 
-    '<h2>Urban Mining Map</h2>' + '<div class="underline"></div>' +  (props ?  '<h3>Aluminium_quantity : ' + props.alumini.toFixed(2)  + ' m<sup>3</sup></h3>' + '<p> area = ' + props.value + ' m<sup>2</sup> <br><br> end year = ' + props.data_edifc +  '<br><br> nº of units = ' + props.numberOfBu +  '<br><br> current_use = ' + props.currentUse + '</p>  <small> Aluminium represents 0.03% of the materials used in the construction of a modern building</small>'  : '<h4>Hover over a feature</h4>');
+    '<h2>Urban Mining Map</h2>' + '<div class="underline"></div>' +  (props ?  '<h3>Aluminium_quantity : ' + props.alumini.toFixed(2)  + ' m<sup>3</sup></h3>' + '<p> area = ' + props.value + ' m<sup>2</sup> <br><br> end year = ' + props.data_edifc +  '<br><br> nº of units = ' + props.numberOfBu +  '<br><br> current_use = ' + props.currentUse +  '<br><br> total_estimated = 1.655 m3 '  + '</p>  <small> Aluminium represents 0.03% of the materials used in the construction of a modern building</small>'  : '<h4>Hover over a feature</h4>');
   }
   else if (map.hasLayer(coure)){
     this._div.innerHTML = 
-    '<h2>Urban Mining Map</h2>' + '<div class="underline"></div>' +  (props ?  '<h3>Copper_quantity : ' + props.coure.toFixed(2)  + ' m<sup>3</sup></h3>' + '<p> area = ' + props.value + ' m<sup>2</sup> <br><br> end year = ' + props.data_edifc +  '<br><br> nº of units = ' + props.numberOfBu +  '<br><br> current_use = ' + props.currentUse + '</p>  <small> Copper represents 0.5% of the materials used in the construction of a modern building</small>'  : '<h4>Hover over a feature</h4>');
+    '<h2>Urban Mining Map</h2>' + '<div class="underline"></div>' +  (props ?  '<h3>Copper_quantity : ' + props.coure.toFixed(2)  + ' m<sup>3</sup></h3>' + '<p> area = ' + props.value + ' m<sup>2</sup> <br><br> end year = ' + props.data_edifc +  '<br><br> nº of units = ' + props.numberOfBu +  '<br><br> current_use = ' + props.currentUse + '<br><br> total_estimated = 23.613,65 m3 '  + '</p>  <small> Copper represents 0.5% of the materials used in the construction of a modern building</small>'  : '<h4>Hover over a feature</h4>');
   }
 };
 
